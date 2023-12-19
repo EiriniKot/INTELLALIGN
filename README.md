@@ -18,6 +18,8 @@ The project employs Deep Reinforcement Learning (DRL) with a Natural Language Pr
 # Build the Docker image
 docker build -t imagename .
 docker run -v path/to/host/dir:/src --name containernaime imagename /bin/bash
+```
 
 ### Acknowledgments
-
+Thanks to:
+- [policy-based-self-competition ](https://github.com/grimmlab/policy-based-self-competition)
