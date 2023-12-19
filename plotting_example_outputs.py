@@ -6,7 +6,7 @@ from tools.dataset_generator import Decoder, flatten_input_tool
 from tools.reward_functions import Reward
 from tools.encoding_tools import pos_encoding_2
 
-exp_path = "/home/eirini/PycharmProjects/GAZ_MSA/results/2023-11-20--16-25-54"
+exp_path = "./results/2023-11-20--16-25-54"
 f = open(os.path.join(exp_path, "config_options.json"))
 cfg = json.load(f)
 test_set_path = cfg["test_set_path"].split("/")[-1]

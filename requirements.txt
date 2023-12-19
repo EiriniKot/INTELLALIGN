@@ -1,7 +1,7 @@
 biopython==1.81
 biotite==0.37.0
-mlflow
 muscle
+matplotlib
 numpy==1.25.1
 pandas
 psutil

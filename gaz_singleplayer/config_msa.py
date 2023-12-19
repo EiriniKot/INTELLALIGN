@@ -2,8 +2,6 @@ import os
 import datetime
 import json
 import copy
-
-# import mlflow
 from tools.reward_functions import Reward
 
 
@@ -161,6 +159,3 @@ class Config:
         data2["msa_conf"].pop("reward")
         with open(file_path, "w") as file:
             json.dump(data2, file)
-
-
-# Saved ./sets/59d4658f-8cb5-48e6-9ec9-656d4274ac5b ./sets/edfa202d-b8e5-4140-bab3-a6e139070d6b

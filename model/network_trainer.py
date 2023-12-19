@@ -5,7 +5,6 @@ import ray
 import time
 import copy
 
-# import mlflow
 from typing import Dict
 from shared_storage import SharedStorage
 from tools.generic_tools import dict_to_cpu
@@ -188,9 +187,7 @@ class NetworkTrainer:
         policy_logits, pred_value_batch = self.model(state_batch)
         padding_mask = self.model.compute_mask(state_batch)
 
-        # Compute loss per step
         # Compute loss for each step
-
         value_loss, policy_loss = self.loss_function(
             pred_value_batch,
             policy_logits,

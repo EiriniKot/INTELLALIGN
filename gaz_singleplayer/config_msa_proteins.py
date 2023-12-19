@@ -102,11 +102,6 @@ class Config:
             "path_set": "dataset_protein_sequences/output.csv",
         }
 
-        # mlflow.set_experiment(experiment_name=exp_name)
-        # mlflow.set_tag("mlflow.runName", "run_name")
-        # for key, value in self.msa_conf.items():
-        # mlflow.log_param(key, value)
-
         # Gumbel AlphaZero specific parameters
         self.value_target_scaling = 1.0
         self.gumbel_sample_n_actions = (
@@ -133,9 +128,6 @@ class Config:
         self.cuda_devices_for_inferencers = ["cpu"] * (self.num_experience_workers - cuda_workers) + [
             self.cuda_device
         ] * cuda_workers
-        # self.cuda_devices_for_inferencers = ["cpu"] * (self.num_experience_workers - 4) + [
-        #     "cuda:0"]
-
         # Number of most recent games to store in the replay buffer
         self.replay_buffer_size = 1000
 
