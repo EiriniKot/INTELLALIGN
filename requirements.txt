@@ -1,0 +1,12 @@
+biopython==1.81
+biotite==0.37.0
+mlflow
+muscle
+numpy==1.25.1
+pandas
+psutil
+pytest==7.4.0
+pytorch-nlp==0.5.0
+ray[default]
+setproctitle
+tqdm

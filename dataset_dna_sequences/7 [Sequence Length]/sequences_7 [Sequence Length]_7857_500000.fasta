@@ -1,0 +1,3056 @@
+>pdb|3F23|F Chain F, Crystal structure of Zalpha in complex with d(CGGCCG)
+TCGGCCG
+>pdb|3F23|E Chain E, Crystal structure of Zalpha in complex with d(CGGCCG)
+TCGGCCG
+>pdb|3F23|D Chain D, Crystal structure of Zalpha in complex with d(CGGCCG)
+TCGGCCG
+>pdb|3F22|F Chain F, Crystal structure of Zalpha in complex with d(CGTACG)
+TCGTACG
+>pdb|3F22|E Chain E, Crystal structure of Zalpha in complex with d(CGTACG)
+TCGTACG
+>pdb|3F22|D Chain D, Crystal structure of Zalpha in complex with d(CGTACG)
+TCGTACG
+>pdb|3F21|F Chain F, Crystal structure of Zalpha in complex with d(CACGTG)
+TCACGTG
+>pdb|3F21|E Chain E, Crystal structure of Zalpha in complex with d(CACGTG)
+TCACGTG
+>pdb|3F21|D Chain D, Crystal structure of Zalpha in complex with d(CACGTG)
+TCACGTG
+>pdb|3NH2|H Chain H, Crystal structure of RNase T in complex with a stem DNA with a 3' overhang
+NTACAAC
+>pdb|3NH2|G Chain G, Crystal structure of RNase T in complex with a stem DNA with a 3' overhang
+TTACAAC
+>pdb|3NH2|D Chain D, Crystal structure of RNase T in complex with a stem DNA with a 3' overhang
+TTACAAC
+>pdb|3NH2|C Chain C, Crystal structure of RNase T in complex with a stem DNA with a 3' overhang
+NTACAAC
+>PA573900.1 JP 2023021634-A/12: A fluorescently labeled nucleic acid probe
+NNNNGAN
+>pdb|6GXO|7 Chain 7, Cryo-EM structure of a rotated E. coli 70S ribosome in complex with RF3-GDPCP, RF1(GAQ) and P/E-tRNA (State IV)
+NTGTAAA
+>pdb|6GXN|7 Chain 7, Cryo-EM structure of an E. coli 70S ribosome in complex with RF3-GDPCP, RF1(GAQ) and Pint-tRNA (State III)
+NTGTAAA
+>pdb|6GWT|7 Chain 7, Cryo-EM structure of an E. coli 70S ribosome in complex with RF3-GDPCP, RF1(GAQ) and Pint-tRNA (State I)
+NTGTAAA
+>pdb|5O2R|7 Chain 7, Cryo-EM structure of the proline-rich antimicrobial peptide Api137 bound to the terminating ribosome
+NTCTAGA
+>pdb|7URK|B Chain B, Self-assembling DNA tensegrity triangle motif with intercalating internal Cy3 modification
+NCACCGT
+>pdb|7SGB|D Chain D, [C-C] DNA mismatch in a self-assembling rhombohedral lattice at pH 5.5
+NTGATGT
+>pdb|7SGB|C Chain C, [C-C] DNA mismatch in a self-assembling rhombohedral lattice at pH 5.5
+NGCTGCT
+>pdb|7SGB|B Chain B, [C-C] DNA mismatch in a self-assembling rhombohedral lattice at pH 5.5
+NCACACA
+>pdb|7SGA|D Chain D, [C-S] DNA mismatch in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SGA|C Chain C, [C-S] DNA mismatch in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SGA|B Chain B, [C-S] DNA mismatch in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SG9|D Chain D, [mC-mC] DNA mismatch in a self-assembling rhombohedral lattice at pH 5.5
+NTGATGT
+>pdb|7SG9|C Chain C, [mC-mC] DNA mismatch in a self-assembling rhombohedral lattice at pH 5.5
+NGCTGCT
+>pdb|7SG9|B Chain B, [mC-mC] DNA mismatch in a self-assembling rhombohedral lattice at pH 5.5
+NCANACA
+>pdb|7SG8|D Chain D, [T-T] DNA mismatch in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SG8|C Chain C, [T-T] DNA mismatch in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SG8|B Chain B, [T-T] DNA mismatch in a self-assembling rhombohedral lattice
+NCATACA
+>pdb|7SE5|D Chain D, [iU:Hg2+:iU] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SE5|C Chain C, [iU:Hg2+:iU] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SE5|B Chain B, [iU:Hg2+:iU] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SE4|D Chain D, [iU:Hg2+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SE4|C Chain C, [iU:Hg2+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SE4|B Chain B, [iU:Hg2+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCACACA
+>pdb|7SE3|D Chain D, [iU:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SE3|C Chain C, [iU:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SE3|B Chain B, [iU:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SE2|D Chain D, [C:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SE2|C Chain C, [C:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SE2|B Chain B, [C:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SE1|D Chain D, [iU:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SE1|C Chain C, [iU:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SE1|B Chain B, [iU:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SE0|D Chain D, [iU:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SE0|C Chain C, [iU:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SE0|B Chain B, [iU:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCATACA
+>pdb|7SDZ|D Chain D, [iU:Hg2+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDZ|C Chain C, [iU:Hg2+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDZ|B Chain B, [iU:Hg2+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDY|D Chain D, [C:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDY|C Chain C, [C:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDY|B Chain B, [C:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDX|D Chain D, [U:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDX|C Chain C, [U:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDX|B Chain B, [U:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDW|D Chain D, [T:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDW|C Chain C, [T:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDW|B Chain B, [T:Hg2+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDV|D Chain D, [T:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDV|C Chain C, [T:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDV|B Chain B, [T:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDU|D Chain D, [iU:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDU|C Chain C, [iU:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDU|B Chain B, [iU:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDT|D Chain D, [iU:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDT|C Chain C, [iU:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDT|B Chain B, [iU:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDS|D Chain D, [C:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDS|C Chain C, [C:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDS|B Chain B, [C:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCATACA
+>pdb|7SDQ|D Chain D, [mC:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDQ|C Chain C, [mC:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDQ|B Chain B, [mC:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDO|D Chain D, [iU:Ag+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDO|C Chain C, [iU:Ag+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDO|B Chain B, [iU:Ag+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCACACA
+>pdb|7SDN|D Chain D, [C:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDN|C Chain C, [C:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDN|B Chain B, [C:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDM|D Chain D, [U:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDM|C Chain C, [U:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDM|B Chain B, [U:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDL|D Chain D, [S:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDL|C Chain C, [S:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDL|B Chain B, [S:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCATACA
+>pdb|7SDK|D Chain D, [mC:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDK|C Chain C, [mC:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDK|B Chain B, [mC:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDJ|D Chain D, [mC:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDJ|C Chain C, [mC:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDJ|B Chain B, [mC:Ag+:mC] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDI|D Chain D, [T:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDI|C Chain C, [T:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDI|B Chain B, [T:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDH|D Chain D, [S:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDH|C Chain C, [S:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDH|B Chain B, [S:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SDF|D Chain D, [C:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDF|C Chain C, [C:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDF|B Chain B, [C:Ag+:S] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7SD8|D Chain D, [U:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SD8|C Chain C, [U:Hg2+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|8D2M|D Chain D, Covalent Schiff base complex of YedK C2A and abasic DNA
+GTCNGGA
+>pdb|8D2M|C Chain C, Covalent Schiff base complex of YedK C2A and abasic DNA
+GTCNGGA
+>pdb|7TR7|C Chain C, APE1 product complex with abasic ssDNA
+NCGATGC
+>pdb|7TR7|D Chain D, APE1 product complex with abasic ssDNA
+NCGATGC
+>pdb|8EG4|D Chain D, [iU:Ag+:iU] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|8EG4|C Chain C, [iU:Ag+:iU] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|8E4E|D Chain D, [T:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|8E4E|C Chain C, [T:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|8E4E|B Chain B, [T:Ag+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCATACA
+>pdb|8E4D|D Chain D, [U:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|8E4D|C Chain C, [U:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|8E4D|B Chain B, [U:Ag+:U] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCANACA
+>pdb|7UL8|D Chain D, [T:Au+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7UL8|C Chain C, [T:Au+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7UL8|B Chain B, [T:Au+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7UK0|D Chain D, [T:Au+:T--pH 11 w/ HgCl2] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7UK0|C Chain C, [T:Au+:T--pH 11 w/ HgCl2] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7UK0|B Chain B, [T:Au+:T--pH 11 w/ HgCl2] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7UJZ|D Chain D, [T:Cd2+/Hg2+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7UJZ|C Chain C, [T:Cd2+/Hg2+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7UJZ|B Chain B, [T:Cd2+/Hg2+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|8D93|B Chain B, [2T7] Self-assembling tensegrity triangle with R3 symmetry at 2.96 A resolution, update and junction cut for entry 3GBI
+NCACCGT
+>pdb|7SDG|D Chain D, [C:Ag+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SDG|C Chain C, [C:Ag+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SDG|B Chain B, [C:Ag+:C] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCACACA
+>pdb|7SD7|B Chain B, [C:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCATACA
+>pdb|7SD6|D Chain D, [T:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NTGATGT
+>pdb|7SD6|C Chain C, [T:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NGCTGCT
+>pdb|7SD6|B Chain B, [T:Hg2+:T] Metal-mediated DNA base pair in a self-assembling rhombohedral lattice
+NCATACA
+>PA566176.1 WO 2022270585-A/168: Combination of antisense oligomers
+AACAGTG
+>PA566175.1 WO 2022270585-A/167: Combination of antisense oligomers
+AAACAGT
+>PA566174.1 WO 2022270585-A/166: Combination of antisense oligomers
+TAAACAG
+>PA566173.1 WO 2022270585-A/165: Combination of antisense oligomers
+TTAAACA
+>PA566172.1 WO 2022270585-A/164: Combination of antisense oligomers
+ATTAAAC
+>PA566171.1 WO 2022270585-A/163: Combination of antisense oligomers
+GATTAAA
+>PA566170.1 WO 2022270585-A/162: Combination of antisense oligomers
+AGATTAA
+>PA566169.1 WO 2022270585-A/161: Combination of antisense oligomers
+AAGATTA
+>PA566168.1 WO 2022270585-A/160: Combination of antisense oligomers
+AAAGATT
+>PA566167.1 WO 2022270585-A/159: Combination of antisense oligomers
+AAAAGAT
+>PA566166.1 WO 2022270585-A/158: Combination of antisense oligomers
+GAAAAGA
+>PA566165.1 WO 2022270585-A/157: Combination of antisense oligomers
+AGAAAAG
+>PA566071.1 WO 2022270585-A/63: Combination of antisense oligomers
+CACTGTT
+>PA566070.1 WO 2022270585-A/62: Combination of antisense oligomers
+ACTGTTT
+>PA566069.1 WO 2022270585-A/61: Combination of antisense oligomers
+CTGTTTA
+>PA566068.1 WO 2022270585-A/60: Combination of antisense oligomers
+TGTTTAA
+>PA566067.1 WO 2022270585-A/59: Combination of antisense oligomers
+GTTTAAT
+>PA566066.1 WO 2022270585-A/58: Combination of antisense oligomers
+TTTAATC
+>PA566065.1 WO 2022270585-A/57: Combination of antisense oligomers
+TTAATCT
+>PA566064.1 WO 2022270585-A/56: Combination of antisense oligomers
+TAATCTT
+>PA566063.1 WO 2022270585-A/55: Combination of antisense oligomers
+AATCTTT
+>PA566062.1 WO 2022270585-A/54: Combination of antisense oligomers
+ATCTTTT
+>PA566061.1 WO 2022270585-A/53: Combination of antisense oligomers
+TCTTTTC
+>PA566060.1 WO 2022270585-A/52: Combination of antisense oligomers
+CTTTTCT
+>pdb|7UN7|T Chain T, DNA Polymerase lambda in complex with a 1nt microhomology substrate
+CGGCAGT
+>pdb|7DQ8|B Chain B, Crystal structure of actinomycin D-echinomycin-d(ACGCGCT/AGCTCGT) complex
+NCGCGCT
+>pdb|7DQ8|A Chain A, Crystal structure of actinomycin D-echinomycin-d(ACGCGCT/AGCTCGT) complex
+NGCTCGT
+>pdb|7DQ0|B Chain B, Crystal structure of actinomycin D-echinomycin-d(ACGTGCT/AGCTCGT) complex
+NCGTGCT
+>pdb|7DQ0|A Chain A, Crystal structure of actinomycin D-echinomycin-d(ACGTGCT/AGCTCGT) complex
+NGCTCGT
+>pdb|7VRL|A Chain A, Solution structure of Rbfox RRM bound to a non-cognate RNA
+TGCATAT
+>pdb|7M0E|T Chain T, Pre-catalytic synaptic complex of DNA Polymerase Lambda with gapped DSB substrate and incoming dUMPNPP
+CGGCAGC
+>pdb|7M0E|O Chain O, Pre-catalytic synaptic complex of DNA Polymerase Lambda with gapped DSB substrate and incoming dUMPNPP
+CGGCAGC
+>pdb|7M0E|K Chain K, Pre-catalytic synaptic complex of DNA Polymerase Lambda with gapped DSB substrate and incoming dUMPNPP
+CGGCAGC
+>pdb|7M0E|G Chain G, Pre-catalytic synaptic complex of DNA Polymerase Lambda with gapped DSB substrate and incoming dUMPNPP
+CGGCAGC
+>pdb|7M0D|K Chain K, Pre-catalytic quaternary complex of DNA Polymerase Lambda with bound complementary DSB substrate and incoming dUMPNPP
+CGGCAGC
+>pdb|7M0D|G Chain G, Pre-catalytic quaternary complex of DNA Polymerase Lambda with bound complementary DSB substrate and incoming dUMPNPP
+CGGCAGC
+>pdb|7M0A|P Chain P, Incomplete in crystallo incorporation by DNA Polymerase Lambda bound to blunt-ended DSB substrate and incoming dTTP
+CAGTGCT
+>pdb|7XWZ|F Chain F, Crystal structure of SARS-CoV-2 N-NTD and dsRNA complex
+NTCAGTG
+>pdb|7XWZ|E Chain E, Crystal structure of SARS-CoV-2 N-NTD and dsRNA complex
+CACTGAC
+>pdb|7XWZ|D Chain D, Crystal structure of SARS-CoV-2 N-NTD and dsRNA complex
+NTCAGTG
+>pdb|7XWZ|C Chain C, Crystal structure of SARS-CoV-2 N-NTD and dsRNA complex
+CACTGAC
+>pdb|7Q33|B Chain B, Solution structure of RBM39 RRM2 bound to 5'-AGCUUUG-3
+AGCTTTG
+>pdb|8DCJ|D Chain D, [A:T] Self-Assembled 3D DNA Rhombohedral Tensegrity Triangle
+TTGATGT
+>pdb|8DCJ|C Chain C, [A:T] Self-Assembled 3D DNA Rhombohedral Tensegrity Triangle
+NGCTGCT
+>pdb|8DCJ|B Chain B, [A:T] Self-Assembled 3D DNA Rhombohedral Tensegrity Triangle
+NCGTACA
+>pdb|8DAH|D Chain D, [20 bp edge] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+CTGATGT
+>pdb|8DAH|B Chain B, [20 bp edge] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CYN|B Chain B, [2T7+20bp Linker] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle with 20 bp Sticky-End Linker
+NCGTACA
+>pdb|8CYM|B Chain B, [2T7+9bp Linker] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle with 9 bp Sticky-End Linker
+NCGTACA
+>pdb|8CS6|B Chain B, [AGG/CTC] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CS5|B Chain B, [GGA/CTC] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CS4|B Chain B, [AGC/GTC] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CS3|B Chain B, [CAG/TCG] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CS2|B Chain B, [(1AP)G/TC] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CS1|B Chain B, [GA/CT] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|8CS8|B Chain B, [High G:C, High Vapor Diffusion] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGCGCA
+>pdb|8CS7|B Chain B, [CCG/CCG] Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>pdb|7TI3|D Chain D, [T:Hg2+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7TI3|C Chain C, [T:Hg2+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7TI3|B Chain B, [T:Hg2+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7TGD|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 300s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 300s
+NTGATGT
+>pdb|7TGD|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 300s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 300s
+NGCTGCT
+>pdb|7TGD|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 300s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 300s
+NCATACA
+>pdb|7TGC|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 90s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 90s
+NTGATGT
+>pdb|7TGC|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 90s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 90s
+NGCTGCT
+>pdb|7TGC|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 90s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 90s
+NCATACA
+>pdb|7TGB|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 60s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 60s
+NTGATGT
+>pdb|7TGB|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 60s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 60s
+NGCTGCT
+>pdb|7TGB|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 60s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 60s
+NCATACA
+>pdb|7TGA|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 30s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 30s
+NTGATGT
+>pdb|7TGA|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 30s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 30s
+NGCTGCT
+>pdb|7TGA|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 30s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 with Ag+ and Hg2+ for 30s
+NCATACA
+>pdb|7TG3|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 300s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 300s
+NTGATGT
+>pdb|7TG3|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 300s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 300s
+NGCTGCT
+>pdb|7TG3|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 300s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 300s
+NCATACA
+>PA561536.1 WO 2022220141-A/255: Method for detecting mutant SARS-CoV-2
+TAAAAGG
+>PA561418.1 WO 2022220141-A/137: Method for detecting mutant SARS-CoV-2
+ACTCTCC
+>pdb|8D31|B Chain B, [AG/TC] Self-Assembled 3D DNA Cubic Tensegrity Triangle with 24 bp Arm Length
+NCGTACA
+>pdb|8D31|F Chain F, [AG/TC] Self-Assembled 3D DNA Cubic Tensegrity Triangle with 24 bp Arm Length
+NCGTACA
+>pdb|7WNU|D Chain D, Mycobacterium tuberculosis Rnase J complex with 7nt RNA
+NAAAAAA
+>pdb|7WNU|C Chain C, Mycobacterium tuberculosis Rnase J complex with 7nt RNA
+NAAAAAA
+>pdb|7TG9|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 300s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 300s
+NTGATGT
+>pdb|7TG9|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 300s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 300s
+NGCTGCT
+>pdb|7TG9|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 300s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 300s
+NCATACA
+>pdb|7TG8|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 90s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 90s
+NTGATGT
+>pdb|7TG8|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 90s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 90s
+NGCTGCT
+>pdb|7TG8|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 90s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 90s
+NCATACA
+>pdb|7TG7|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 60s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 60s
+NTGATGT
+>pdb|7TG7|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 60s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 60s
+NGCTGCT
+>pdb|7TG7|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 60s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 60s
+NCATACA
+>pdb|7TG6|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 30s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 30s
+NTGATGT
+>pdb|7TG6|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 30s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 30s
+NGCTGCT
+>pdb|7TG6|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 30s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 30s
+NCATACA
+>pdb|7TG4|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 5s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 5s
+NTGATGT
+>pdb|7TG4|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 5s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 5s
+NGCTGCT
+>pdb|7TG4|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 5s in metals)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 with Ag+ and Hg2+ for 5s
+NCATACA
+>pdb|7TFY|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 300s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 300s
+NTGATGT
+>pdb|7TFY|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 300s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 300s
+NGCTGCT
+>pdb|7TFY|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 300s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 300s
+NCATACA
+>pdb|7TFX|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 120s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 120s
+NTGATGT
+>pdb|7TFX|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 120s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 120s
+NGCTGCT
+>pdb|7TFX|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 120s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 120s
+NCATACA
+>pdb|7TFW|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 60s
+NTGATGT
+>pdb|7TFW|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 60s
+NGCTGCT
+>pdb|7TFW|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 60s
+NCATACA
+>pdb|7TFV|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 60s
+NTGATGT
+>pdb|7TFV|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 60s
+NGCTGCT
+>pdb|7TFV|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 60s
+NCATACA
+>pdb|7TFU|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 30s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 30s
+NTGATGT
+>pdb|7TFU|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 30s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 30s
+NGCTGCT
+>pdb|7TFU|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 30s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 30s
+NCATACA
+>pdb|7TFT|D Chain D, [T:Ag+/Hg2+:T--(pH11-pH7; 5s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 5s
+NTGATGT
+>pdb|7TFT|C Chain C, [T:Ag+/Hg2+:T--(pH11-pH7; 5s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 5s
+NGCTGCT
+>pdb|7TFT|B Chain B, [T:Ag+/Hg2+:T--(pH11-pH7; 5s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 11 and soaked in pH 7 for 5s
+NCATACA
+>OF448814.1 KR 1020220025839-A/292: TRANSGENIC MAMMALS AND METHODS OF USE THEREOF
+CACAGTG
+>OF448807.1 KR 1020220025839-A/285: TRANSGENIC MAMMALS AND METHODS OF USE THEREOF
+CACAGTG
+>OF405780.1 KR 1020220035338-A/13: ENHANCING PRODUCTION OF LENTIVIRAL VECTORS
+GTGAGTA
+>OF448519.1 KR 1020220025838-A/468: TRANSGENIC MAMMALS AND METHODS OF USE
+CACAGTG
+>OF448512.1 KR 1020220025838-A/461: TRANSGENIC MAMMALS AND METHODS OF USE
+CACAGTG
+>OF448050.1 KR 1020220024954-A/4: METHOD FOR THE PRODUCTION OF AN ANTIBODY
+CTNCTAG
+>OF403923.1 KR 1020220024160-A/46: COMPOSITIONS AND METHODS FOR PREPARING AN ALZHEIMER'S DISEASE ANIMAL MODEL USING MICRORNA
+AGATAGT
+>OF403922.1 KR 1020220024160-A/45: COMPOSITIONS AND METHODS FOR PREPARING AN ALZHEIMER'S DISEASE ANIMAL MODEL USING MICRORNA
+TGTATGA
+>OF403910.1 KR 1020220024160-A/32: COMPOSITIONS AND METHODS FOR PREPARING AN ALZHEIMER'S DISEASE ANIMAL MODEL USING MICRORNA
+TCATACA
+>OF441187.1 KR 1020220020378-A/50: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+GGAGGAG
+>OF441185.1 KR 1020220020378-A/48: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+GGAGGAC
+>OF441151.1 KR 1020220020378-A/14: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+GACTGTG
+>OF441150.1 KR 1020220020378-A/13: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+GGCAACG
+>OF441149.1 KR 1020220020378-A/12: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+GCAACGG
+>OF441148.1 KR 1020220020378-A/11: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+CTCATGT
+>OF441147.1 KR 1020220020378-A/10: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+AACCTCA
+>OF441146.1 KR 1020220020378-A/9: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+GACATTC
+>OF441141.1 KR 1020220020378-A/4: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+TCCAAGG
+>OF441140.1 KR 1020220020378-A/3: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+CTGTGCT
+>OF441139.1 KR 1020220020378-A/2: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+TTCAGTG
+>OF441138.1 KR 1020220020378-A/1: PHARMACEUTICAL COMPOSITIONS, KITS AND METHODS FOR TREATING TUMORS
+ACCTTCA
+>OF391166.1 KR 1020220009445-A/14: ARRAY AND METHOD FOR DETECTING SPATIAL INFORMATION OF NUCLEIC ACIDS
+CCTCAGC
+>OF389896.1 KR 1020220012266-A/17: GENE THERAPY VECTORS FOR INFANTILE MALIGNANT OSTEOPETROSIS
+ACCATGG
+>OF389895.1 KR 1020220012266-A/16: GENE THERAPY VECTORS FOR INFANTILE MALIGNANT OSTEOPETROSIS
+ANNATGG
+>OF389385.1 KR 1020220023985-A/17: EFFICIENT PPR PROTEIN PRODUCTION METHOD AND USE THEREOF
+GGTCTCN
+>OF387573.1 KR 1020220032516-A/13: FAST-FORWARD SEQUENCING BY SYNTHESIS METHODS
+GCCTGCA
+>OF382118.1 KR 1020220002997-A/4: COMPOSITIONS AND METHODS RELATING TO PLANT MESSENGER PACKS
+NNNGATT
+>OF380321.1 KR 1020220002910-A/2: TRIPLE HELIX TERMINATOR FOR EFFICIENT RNA TRANS-SPLICING
+TACTAAC
+>OF463501.1 KR 1020220047623-A/6: COMPOSITIONS AND METHODS FOR IDENTIFYING REGULATORS OF CELL TYPE FATE SPECIFICATION
+NNAGAAW
+>OF378465.1 KR 1020220042046-A/26: USE OF MIR-204 INHIBITOR TO INCREASE NURR1 PROTEIN EXPRESSION
+GCTGGGA
+>OF378464.1 KR 1020220042046-A/25: USE OF MIR-204 INHIBITOR TO INCREASE NURR1 PROTEIN EXPRESSION
+TTCCCTT
+>OF459527.1 KR 1020220047319-A/86: RNA COMBINATIONS AND COMPOSITIONS WITH DECREASED IMMUNOSTIMULATORY PROPERTIES
+AGCNGCC
+>OF374013.1 KR 1020220013339-A/9: A trans-splicing ribozyme specific for rhodopsin transcript and uses thereof
+GAGTACG
+>OF374012.1 KR 1020220013339-A/8: A trans-splicing ribozyme specific for rhodopsin transcript and uses thereof
+CGTACTC
+>OF363873.1 KR 1020220025587-A/14: Helix 73-derived RNA molecules interacting with Erm protein and methods of use thereof
+CCTATCC
+>OF363869.1 KR 1020220025587-A/10: Helix 73-derived RNA molecules interacting with Erm protein and methods of use thereof
+CCTATCC
+>OF363864.1 KR 1020220025587-A/5: Helix 73-derived RNA molecules interacting with Erm protein and methods of use thereof
+AAAGACC
+>OF492371.1 KR 1020220082033-A/7: PRODUCER VIRUSES FOR GENERATION OF RETROVIRUSES IN SITU
+TTTTTNT
+>OF408073.1 KR 1020220042340-A/9: A trans-splicing ribozyme specific for rhodopsin transcript and uses thereof
+GAGTACG
+>OF408072.1 KR 1020220042340-A/8: A trans-splicing ribozyme specific for rhodopsin transcript and uses thereof
+CGTACTC
+>pdb|7TG2|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 90s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 90s
+NTGATGT
+>pdb|7TG2|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 90s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 90s
+NGCTGCT
+>pdb|7TG2|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 90s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 90s
+NCATACA
+>pdb|7TG1|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 60s
+NTGATGT
+>pdb|7TG1|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 60s
+NGCTGCT
+>pdb|7TG1|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 60s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 60s
+NCATACA
+>pdb|7TG0|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 30s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 30s
+NTGATGT
+>pdb|7TG0|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 30s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 30s
+NGCTGCT
+>pdb|7TG0|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 30s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 30s
+NCATACA
+>pdb|7TFZ|D Chain D, [T:Ag+/Hg2+:T--(pH8.5-pH11; 5s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 5s
+NTGATGT
+>pdb|7TFZ|C Chain C, [T:Ag+/Hg2+:T--(pH8.5-pH11; 5s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 5s
+NGCTGCT
+>pdb|7TFZ|B Chain B, [T:Ag+/Hg2+:T--(pH8.5-pH11; 5s)] Metal-mediated DNA base pair in tensegrity triangle grown at pH 8.5 and soaked in pH 11 for 5s
+NCATACA
+>pdb|7U3S|B Chain B, [2T7+21] Self-assembling tensegrity triangle with two turns of DNA and the sticky end addition of a two-turn linker per axis with R3 symmetry
+NCGTACA
+>pdb|7U3P|B Chain B, [3T7] Self-assembling tensegrity triangle with three turns of DNA per axis with R3 symmetry
+NCGTACA
+>pdb|7XDJ|N Chain N, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NCGAGCN
+>pdb|7XDJ|M Chain M, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NGCGCGT
+>pdb|7XDJ|J Chain J, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NCGAGCN
+>pdb|7XDJ|I Chain I, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NGCGCGT
+>pdb|7XDJ|F Chain F, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NCGAGCN
+>pdb|7XDJ|E Chain E, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NGCGCGT
+>pdb|7XDJ|B Chain B, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NCGAGCN
+>pdb|7XDJ|A Chain A, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGAGCT) complex
+NGCGCGT
+>pdb|7X9F|B Chain B, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGCGCT) complex
+NGCGCGT
+>pdb|7X9F|D Chain D, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGCGCT) complex
+NCGCGCT
+>pdb|7X9F|O Chain O, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGCGCT) complex
+NGCGCGT
+>pdb|7X9F|F Chain F, Crystal structure of actinomycin D-echinomycin-d(AGCGCGT/ACGCGCT) complex
+NCGCGCT
+>pdb|7X97|B Chain B, Crystal structure of actinomycin D-echinomycin-d(AGCCCGT/ACGGGCT) complex
+NCGGGCT
+>pdb|7X97|A Chain A, Crystal structure of actinomycin D-echinomycin-d(AGCCCGT/ACGGGCT) complex
+NGCCCGT
+>pdb|7X6R|B Chain B, Crystal structure of actinomycin D-echinomycin-d(AGCACGT/ACGGGCT) complex
+NCGGGCT
+>pdb|7X6R|A Chain A, Crystal structure of actinomycin D-echinomycin-d(AGCACGT/ACGGGCT) complex
+NGCACGT
+>pdb|7SMB|D Chain D, [U:Ag+/Ag+:U--pH 11] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SMB|C Chain C, [U:Ag+/Ag+:U--pH 11] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SMB|B Chain B, [U:Ag+/Ag+:U--pH 11] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCANACA
+>pdb|7SMA|D Chain D, [U:Hg2+/Ag+:U--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SMA|C Chain C, [U:Hg2+/Ag+:U--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SMA|B Chain B, [U:Hg2+/Ag+:U--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCANACA
+>pdb|7SM9|D Chain D, [U:Hg2+/Ag+:U--pH 10] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM9|C Chain C, [U:Hg2+/Ag+:U--pH 10] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM9|B Chain B, [U:Hg2+/Ag+:U--pH 10] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCANACA
+>pdb|7SM8|D Chain D, [U:Hg2+/Ag+:U--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM8|C Chain C, [U:Hg2+/Ag+:U--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM8|B Chain B, [U:Hg2+/Ag+:U--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCANACA
+>pdb|7SM7|D Chain D, [U:Hg2+/Ag+:U--pH 9] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM7|C Chain C, [U:Hg2+/Ag+:U--pH 9] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM7|B Chain B, [U:Hg2+/Ag+:U--pH 9] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCANACA
+>pdb|7SM6|D Chain D, [U:Hg2+/Hg2+:U--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM6|C Chain C, [U:Hg2+/Hg2+:U--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM6|B Chain B, [U:Hg2+/Hg2+:U--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCANACA
+>pdb|7SM5|D Chain D, [T:Ag+/Ag+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM5|C Chain C, [T:Ag+/Ag+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM5|B Chain B, [T:Ag+/Ag+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCATACA
+>pdb|7SM4|D Chain D, [T:Hg2+/Ag+:T--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM4|C Chain C, [T:Hg2+/Ag+:T--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM4|B Chain B, [T:Hg2+/Ag+:T--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCATACA
+>pdb|7SM3|D Chain D, [T:Hg2+/Ag+:T--pH 10] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM3|C Chain C, [T:Hg2+/Ag+:T--pH 10] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM3|B Chain B, [T:Hg2+/Ag+:T--pH 10] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCATACA
+>pdb|7SM2|D Chain D, [T:Hg2+/Ag+:T--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM2|C Chain C, [T:Hg2+/Ag+:T--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM2|B Chain B, [T:Hg2+/Ag+:T--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCATACA
+>pdb|7SM1|D Chain D, [T:Hg2+/Hg2+:T--pH 9] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM1|C Chain C, [T:Hg2+/Hg2+:T--pH 9] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM1|B Chain B, [T:Hg2+/Hg2+:T--pH 9] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCATACA
+>pdb|7SM0|D Chain D, [T:Hg2+/Hg2+:T--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NTGATGT
+>pdb|7SM0|C Chain C, [T:Hg2+/Hg2+:T--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NGCTGCT
+>pdb|7SM0|B Chain B, [T:Hg2+/Hg2+:T--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle in Ag+ and Hg2+ solution
+NCATACA
+>pdb|6GXM|7 Chain 7, Cryo-EM structure of an E. coli 70S ribosome in complex with RF3-GDPCP, RF1(GAQ) and Pint-tRNA (State II)
+NTGTAAA
+>pdb|7C0I|F Chain F, Crystal structure of chimeric mutant of E3L in complex with Z-DNA
+NCGCGCG
+>pdb|7C0I|E Chain E, Crystal structure of chimeric mutant of E3L in complex with Z-DNA
+TCGCGCG
+>pdb|7C0I|D Chain D, Crystal structure of chimeric mutant of E3L in complex with Z-DNA
+TCGCGCG
+>pdb|7JZ0|F Chain F, Crystal Structure of SARS-CoV-2 Nsp16/10 Heterodimer in Complex with (m7GpppA2m)pUpUpApApA (Cap-1) and S-Adenosyl-L-homocysteine (SAH).
+NNTTAAA
+>pdb|7JZ0|E Chain E, Crystal Structure of SARS-CoV-2 Nsp16/10 Heterodimer in Complex with (m7GpppA2m)pUpUpApApA (Cap-1) and S-Adenosyl-L-homocysteine (SAH).
+NNTTAAA
+>pdb|7SLO|D Chain D, [U:Ag+:U--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLO|C Chain C, [U:Ag+:U--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLO|B Chain B, [U:Ag+:U--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NCANACA
+>pdb|7SLN|D Chain D, [U:Ag+:U--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLN|C Chain C, [U:Ag+:U--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLN|B Chain B, [U:Ag+:U--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle
+NCANACA
+>pdb|7SLM|D Chain D, [U:Ag+:U--pH 10] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLM|C Chain C, [U:Ag+:U--pH 10] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLM|B Chain B, [U:Ag+:U--pH 10] Metal-mediated DNA base pair in tensegrity triangle
+NCANACA
+>pdb|7SLL|D Chain D, [U:Ag+:U--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLL|C Chain C, [U:Ag+:U--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLL|B Chain B, [U:Ag+:U--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle
+NCANACA
+>pdb|7SLK|D Chain D, [U:Ag+:U--pH 9] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLK|C Chain C, [U:Ag+:U--pH 9] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLK|B Chain B, [U:Ag+:U--pH 9] Metal-mediated DNA base pair in tensegrity triangle
+NCANACA
+>pdb|7SLJ|D Chain D, [U:Ag+:U--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLJ|C Chain C, [U:Ag+:U--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLJ|B Chain B, [U:Ag+:U--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle
+NCANACA
+>pdb|7SLG|D Chain D, [T:Ag+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLG|C Chain C, [T:Ag+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLG|B Chain B, [T:Ag+:T--pH 11] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7SLF|D Chain D, [T:Ag+:T--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLF|C Chain C, [T:Ag+:T--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLF|B Chain B, [T:Ag+:T--pH 10.5] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7SLE|D Chain D, [T:Ag+:T--pH 10] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLE|C Chain C, [T:Ag+:T--pH 10] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLE|B Chain B, [T:Ag+:T--pH 10] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7SLD|D Chain D, [T:Ag+:T--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLD|C Chain C, [T:Ag+:T--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLD|B Chain B, [T:Ag+:T--pH 9.5] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7SLC|D Chain D, [T:Ag+:T--pH 9] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLC|C Chain C, [T:Ag+:T--pH 9] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLC|B Chain B, [T:Ag+:T--pH 9] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7SLB|D Chain D, [T:Ag+:T--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle
+NTGATGT
+>pdb|7SLB|C Chain C, [T:Ag+:T--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle
+NGCTGCT
+>pdb|7SLB|B Chain B, [T:Ag+:T--pH 8.5] Metal-mediated DNA base pair in tensegrity triangle
+NCATACA
+>pdb|7Y7S|J Chain J, QDE-1 in complex with DNA template, RNA primer and AMPNPP
+TCCGACC
+>pdb|7Y7S|D Chain D, QDE-1 in complex with DNA template, RNA primer and AMPNPP
+TCCGACC
+>pdb|7Y7R|G Chain G, QDE-1 in complex with DNA template, RNA primer and 3'-dGTP
+TCCGACG
+>pdb|7Y7R|F Chain F, QDE-1 in complex with DNA template, RNA primer and 3'-dGTP
+TCCGACG
+>pdb|7Y7R|D Chain D, QDE-1 in complex with DNA template, RNA primer and 3'-dGTP
+TCCGACG
+>pdb|7Y7Q|D Chain D, QDE-1 in complex with RNA template, RNA primer and 3'-dGTP
+TCCGACG
+>pdb|7Y7P|J Chain J, QDE-1 in complex with RNA template, RNA primer and AMPNPP
+TCCGACC
+>pdb|7Y7P|D Chain D, QDE-1 in complex with RNA template, RNA primer and AMPNPP
+TCCGACC
+>pdb|7SXE|C Chain C, Crystal structure of ligase I with nick duplexes containing cognate G:T
+NTCGGAC
+>pdb|7SX5|C Chain C, Crystal structure of ligase I with nick duplexes containing mismatch A:C
+NTCGGAC
+>pdb|7SUM|C Chain C, Crystal structure of human ligase I with nick duplexes containing cognate A:T
+NTCGGAC
+>pdb|7M4L|P Chain P, DNA Polymerase Lambda, TTPaS:At Mn2+ Product State Ternary Complex, 60 min
+CAGTACN
+>pdb|7M4J|P Chain P, DNA Polymerase Lambda, dCTP:At Mn2+ Product State Ternary Complex, 960 min
+CAGTACC
+>pdb|7M4I|P Chain P, DNA Polymerase Lambda, dCTP:At Mn2+ Product State Ternary Complex, 420 min
+CAGTACC
+>pdb|7M4H|P Chain P, DNA Polymerase Lambda, dCTP:At Mn2+ Reaction State Ternary Complex, 225 min
+CAGTACC
+>pdb|7M4G|P Chain P, DNA Polymerase Lambda, dCTP:At Mg2+ Product State Ternary Complex, 960 min
+CAGTACC
+>pdb|7M4F|P Chain P, DNA Polymerase Lambda, dCTP:At Mg2+ Product State Ternary Complex, 300 min
+CAGTACC
+>pdb|7M4E|P Chain P, DNA Polymerase Lambda, dCTP:At Mg2+ Reaction State Ternary Complex, 120 min
+CAGTACC
+>pdb|7M4C|P Chain P, DNA Polymerase Lambda, TTP:At Mn2+ Product State Ternary Complex, 960 min
+CAGTACT
+>pdb|7M4B|P Chain P, DNA Polymerase Lambda, TTP:At Mn2+ Product State Ternary Complex, 60 min
+CAGTACT
+>pdb|7M4A|P Chain P, DNA Polymerase Lambda, TTP:At Mn2+ Product State Ternary Complex, 20 min
+CAGTACT
+>pdb|7M49|P Chain P, DNA Polymerase Lambda, TTP:At Mn2+ Reaction State Ternary Complex, 5 min
+CAGTACT
+>pdb|7M48|P Chain P, DNA Polymerase Lambda, TTP:At Mg2+ Product State Ternary Complex, 960 min
+CAGTACT
+>pdb|7M47|P Chain P, DNA Polymerase Lambda, TTP:At Mg2+ Product State Ternary Complex, 60 min
+CAGTACT
+>pdb|7M46|P Chain P, DNA Polymerase Lambda, TTP:At Mg2+ Product State Ternary Complex, 5 min
+CAGTACT
+>pdb|7M45|P Chain P, DNA Polymerase Lambda, TTP:At Mg2+ Reaction State Ternary Complex, 120 sec
+CAGTACT
+>pdb|7M44|P Chain P, DNA Polymerase Lambda, TTP:At Mg2+ Reaction State Ternary Complex, 90 sec
+CAGTACT
+>pdb|7JSC|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J31 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JSB|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J30 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JS2|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J36 immobile Holliday junction with R3 symmetry
+NGTCTGC
+>pdb|7JS1|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J33 immobile Holliday junction with R3 symmetry
+NGTCTGC
+>pdb|7JS0|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J31 immobile Holliday junction with R3 symmetry
+NGTCTGC
+>pdb|7JRZ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J5 immobile Holliday junction with R3 symmetry
+NGTCTGC
+>pdb|7JRY|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J4 immobile Holliday junction with R3 symmetry
+NGTCTGC
+>pdb|7JPC|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J7 immobile Holliday junction
+NGTCTGC
+>pdb|7JPB|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J2 immobile Holliday junction
+NGTCTGC
+>pdb|7JPA|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J5 immobile Holliday junction
+NGTCTGC
+>pdb|7JP9|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J8 immobile Holliday junction
+NGTCTGC
+>pdb|7JP8|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J10 immobile Holliday junction
+NGTCTGC
+>pdb|7JP7|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J16 immobile Holliday junction
+NGTCTGC
+>pdb|7JP6|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J20 immobile Holliday junction
+NGTCTGC
+>pdb|7JP5|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J22 immobile Holliday junction
+NGTCTGC
+>pdb|7JON|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J23 immobile Holliday junction
+NGTCTGC
+>pdb|7JOL|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J24 immobile Holliday junction
+NGTCTGC
+>pdb|7JOK|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J26 immobile Holliday junction
+NGTCTGC
+>pdb|7JOJ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J28 immobile Holliday junction
+NGTCTGC
+>pdb|7JOI|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J30 immobile Holliday junction
+NGTCTGC
+>pdb|7JOH|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J31 immobile Holliday junction
+NGTCTGC
+>pdb|7JOG|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 duplex version) containing the J33 immobile Holliday junction
+NGTCTGC
+>pdb|7JNM|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J36 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JNL|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J34 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JNK|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J33 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JNJ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J26 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JLF|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J24 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JLE|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J23 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JLD|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J22 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JLC|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J21 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JLB|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J19 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JLA|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J16 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JL9|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J14 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JKK|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J10 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JKJ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J8 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JKI|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J7 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JKH|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J5 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JKG|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J3 immobile Holliday junction with R3 symmetry
+NTGTCGT
+>pdb|7JKE|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J2 immobile Holliday junction
+NTGTCGT
+>pdb|7JKD|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x6 scramble duplex version) containing the J1 immobile Holliday junction
+NTGTCGT
+>pdb|6X8B|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J6 immobile Holliday junction
+NGTCTGC
+>pdb|6WT1|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J29 immobile Holliday junction
+NGTCTGC
+>pdb|6WT0|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J25 immobile Holliday junction
+NGTCTGC
+>pdb|6WSZ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J24 immobile Holliday junction
+NGTCTGC
+>pdb|6WSY|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J23 immobile Holliday junction
+NGTCTGC
+>pdb|6WSX|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J22 immobile Holliday junction
+NGTCTGC
+>pdb|6WSW|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J21 immobile Holliday junction
+NGTCTGC
+>pdb|6WSV|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J20 immobile Holliday junction
+NGTCTGC
+>pdb|6WSU|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J19 immobile Holliday junction
+NGTCTGC
+>pdb|6WST|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J16 immobile Holliday junction
+NGTCTGC
+>pdb|6WSS|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J15 immobile Holliday junction
+NGTCTGC
+>pdb|6WSR|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J10 immobile Holliday junction
+NGTCTGC
+>pdb|6WSQ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J10 immobile Holliday junction
+NGTCTGC
+>pdb|6WSP|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J9 immobile Holliday junction
+NGTCTGC
+>pdb|6WSO|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J8 immobile Holliday junction
+NGTCTGC
+>pdb|6WSN|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J7 immobile Holliday junction
+NGTCTGC
+>pdb|6WRJ|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J26 immobile Holliday junction
+NGTCTGC
+>pdb|6WRI|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J28 immobile Holliday junction
+NGTCTGC
+>pdb|6WRC|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J31 immobile Holliday junction
+NGTCTGC
+>pdb|6WRB|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J5 immobile Holliday junction
+NGTCTGC
+>pdb|6WRA|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J34 immobile Holliday junction
+NGTCTGC
+>pdb|6WR9|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J32 immobile Holliday junction
+NGTCTGC
+>pdb|6WR7|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J33 immobile Holliday junction
+NGTCTGC
+>pdb|6WR5|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J35 immobile Holliday junction
+NGTCTGC
+>pdb|6WR3|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J36 immobile Holliday junction
+NGTCTGC
+>pdb|6WQG|D Chain D, Self-assembly of a 3D DNA crystal lattice (4x5 duplex version) containing the J3 immobile Holliday junction
+NGTCTGC
+>pdb|6M75|C Chain C, C-Myc DNA binding protein complex
+TCTTATT
+>pdb|7F3J|H Chain H, Crystal structure of human YBX2 CSD in complex with m5C RNA in space group P1
+TCATNTT
+>pdb|7F3J|F Chain F, Crystal structure of human YBX2 CSD in complex with m5C RNA in space group P1
+TCATNTT
+>pdb|7F3J|D Chain D, Crystal structure of human YBX2 CSD in complex with m5C RNA in space group P1
+TCATNTT
+>pdb|7F3J|B Chain B, Crystal structure of human YBX2 CSD in complex with m5C RNA in space group P1
+TCATNTT
+>pdb|7S9W|C Chain C, Structure of DrmAB:ADP:DNA complex
+NTTTTTT
+>pdb|7R96|B Chain B, Self-Assembled 3D DNA Hexagonal Tensegrity Triangle
+NCGTACA
+>OF334146.1 KR 1020210151049-A/482: TREM COMPOSITIONS AND USES THEREOF
+GGGGATT
+>OF327823.1 KR 1020210125999-A/24: GENE THERAPY VECTORS FOR TREATMENT OF DANON DISEASE
+ACCATGG
+>OF327822.1 KR 1020210125999-A/23: GENE THERAPY VECTORS FOR TREATMENT OF DANON DISEASE
+ANNATGG
+>OF327005.1 KR 1020210125990-A/127: ANELLOSOMES FOR DELIVERING PROTEIN REPLACEMENT THERAPEUTIC MODALITIES
+GGGGGCG
+>OF327004.1 KR 1020210125990-A/126: ANELLOSOMES FOR DELIVERING PROTEIN REPLACEMENT THERAPEUTIC MODALITIES
+GCGGCGG
+>OF327026.1 KR 1020210125990-A/148: ANELLOSOMES FOR DELIVERING PROTEIN REPLACEMENT THERAPEUTIC MODALITIES
+CTGCCGC
+>OF299725.1 KR 1020210131243-A/2: USE OF DOWNREGULATED MIRNA FOR DIAGNOSIS AND TREATMENT
+TGTATGA
+>OF299681.1 KR 1020210131242-A/2: USE OF UPREGULATED MIRNA FOR DIAGNOSIS AND TREATMENT
+TGTATGA
+>pdb|6UU8|333 Chain 333, E. coli mutant sigma-S transcription initiation complex with a 7-nt RNA ("Fresh" mutant crystal soaked with GTP, UTP, and CTP for 30 minutes)
+NAGTCTG
+>pdb|4TZ0|B Chain B, DEAD-box helicase Mss116 bound to ssRNA and GDP-BeF
+AAAAAAA
+>pdb|4LVL|B Chain B, MobM Relaxase Domain (MOBV; Mob_Pre) bound to plasmid pMV158 oriT DNA (22nt+3'Thiophosphate). Mn-bound crystal structure at pH 6.8
+ACTTTAT
+>pdb|5W6W|D Chain D, Designing Higher Resolution Self-Assembled 3D DNA Crystals via Strand Terminus Modifications
+NTGATGT
+>pdb|5W6W|C Chain C, Designing Higher Resolution Self-Assembled 3D DNA Crystals via Strand Terminus Modifications
+NGCTGCT
+>pdb|5W6W|B Chain B, Designing Higher Resolution Self-Assembled 3D DNA Crystals via Strand Terminus Modifications
+NCGTACA
+>pdb|4TZ6|B Chain B, DEAD-box helicase Mss116 bound to ssRNA and UDP-BeF
+NAAAAAA
+>pdb|7THB|I Chain I, Crystal structure of an RNA-5'/DNA-3' strand exchange junction
+GATGCTC
+>pdb|7THB|H Chain H, Crystal structure of an RNA-5'/DNA-3' strand exchange junction
+AGCTTAC
+>pdb|7THB|F Chain F, Crystal structure of an RNA-5'/DNA-3' strand exchange junction
+GATGCTC
+>pdb|7THB|E Chain E, Crystal structure of an RNA-5'/DNA-3' strand exchange junction
+AGCTTAC
+>pdb|7THB|C Chain C, Crystal structure of an RNA-5'/DNA-3' strand exchange junction
+GATGCTC
+>pdb|7THB|B Chain B, Crystal structure of an RNA-5'/DNA-3' strand exchange junction
+AGCTTAC
+>pdb|4TYN|B Chain B, DEAD-box helicase Mss116 bound to ssDNA and ADP-BeF
+NAAAAAA
+>pdb|2K65|B Chain B, NMR solution structure of the exon/intron binding site 1 (EBS1/IBS1) of the group II intron Sc.ai5(gamma)
+CAGTGTC
+>pdb|2K65|A Chain A, NMR solution structure of the exon/intron binding site 1 (EBS1/IBS1) of the group II intron Sc.ai5(gamma)
+GGCACTG
+>pdb|2JWQ|D Chain D, G-quadruplex recognition by quinacridines: a SAR, NMR and Biological study
+TTAGGGT
+>pdb|2JWQ|C Chain C, G-quadruplex recognition by quinacridines: a SAR, NMR and Biological study
+TTAGGGT
+>pdb|2JWQ|B Chain B, G-quadruplex recognition by quinacridines: a SAR, NMR and Biological study
+TTAGGGT
+>pdb|2JWQ|A Chain A, G-quadruplex recognition by quinacridines: a SAR, NMR and Biological study
+TTAGGGT
+>pdb|2ERR|B Chain B, NMR Structure of the RNA Binding Domain of Human Fox-1 in Complex with UGCAUGU
+TGCATGT
+>pdb|7KQN|J Chain J, Ternary complex of TERT (telomerase reverse transcriptase) with RNA template, DNA primer, an incoming dGTP and a downstream hybrid duplex
+TTCTTTG
+>pdb|7KQN|I Chain I, Ternary complex of TERT (telomerase reverse transcriptase) with RNA template, DNA primer, an incoming dGTP and a downstream hybrid duplex
+TTCTTTG
+>pdb|7KQN|F Chain F, Ternary complex of TERT (telomerase reverse transcriptase) with RNA template, DNA primer, an incoming dGTP and a downstream hybrid duplex
+GCACCTG
+>pdb|7KQN|C Chain C, Ternary complex of TERT (telomerase reverse transcriptase) with RNA template, DNA primer, an incoming dGTP and a downstream hybrid duplex
+GCACCTG
+>pdb|7M0C|P Chain P, Post-catalytic nicked complex of DNA Polymerase Lambda with bound mismatched DSB substrate
+CAGTGCT
+>pdb|7M08|P Chain P, Post-catalytic nicked complex of DNA Polymerase Lambda with bound 1-nt gapped SSB substrate and incoming dUMPNPP
+CAGTACT
+>pdb|1X6W|B Chain B, Solution Structure of the DNA Duplex TGCGCA:TGCGCA Capped by Trimethoxystilbene Residues
+NTGCGCA
+>pdb|1X6W|A Chain A, Solution Structure of the DNA Duplex TGCGCA:TGCGCA Capped by Trimethoxystilbene Residues
+NTGCGCA
+>pdb|1Q2T|B Chain B, Solution structure of d(5mCCTCTCC)4
+NCTCTCC
+>pdb|1Q2T|A Chain A, Solution structure of d(5mCCTCTCC)4
+NCTCTCC
+>pdb|1U01|B Chain B, High resolution NMR structure of 5-d(GCGT*GCG)-3/5-d(CGCACGC)-3 (T*represents a cyclohexenyl nucleotide)
+CGCACGC
+>pdb|1U01|A Chain A, High resolution NMR structure of 5-d(GCGT*GCG)-3/5-d(CGCACGC)-3 (T*represents a cyclohexenyl nucleotide)
+GCGNGCG
+>pdb|1WWE|B Chain B, NMR Structure Determined for MLV NC complex with RNA Sequence UUUUGCU
+NTTTGCT
+>pdb|1Q2T|D Chain D, Solution structure of d(5mCCTCTCC)4
+NCTCTCC
+>pdb|1Q2T|C Chain C, Solution structure of d(5mCCTCTCC)4
+NCTCTCC
+>pdb|1PQT|A Chain A, REFINEMENT OF d(GCGAAGC) HAIRPIN STRUCTURE USING ONE- AND TWO-BOND RESIDUAL DIPOLAR COUPLINGS
+GCGAAGC
+>pdb|149D|C Chain C, SOLUTION STRUCTURE OF A PYRIMIDINE(DOT)PURINE(DOT) PYRIMIDINE DNA TRIPLEX CONTAINING T(DOT)AT, C+(DOT)GC AND G(DOT)TA TRIPLES
+CTTGTCC
+>pdb|1C95|B Chain B, Solution structure of the aminoacyl-capped oligodeoxyribonucleotide duplex TRP-D(TGCGCAC)2
+NGCGCAC
+>pdb|1C95|A Chain A, Solution structure of the aminoacyl-capped oligodeoxyribonucleotide duplex TRP-D(TGCGCAC)2
+NGCGCAC
+>pdb|1NTQ|B Chain B, 5'(dCCUCCUU)3':3'(rAGGAGGAAA)5'
+CCNCCNN
+>pdb|1AJT|B Chain B, FIVE-NUCLEOTIDE BULGE LOOP FROM TETRAHYMENA THERMOPHILA GROUP I INTRON, NMR, 1 STRUCTURE
+GAGTACC
+>pdb|1AJL|B Chain B, FIVE-NUCLEOTIDE BULGE LOOP FROM TETRAHYMENA THERMOPHILA GROUP I INTRON
+GAGTACC
+>pdb|149D|B Chain B, SOLUTION STRUCTURE OF A PYRIMIDINE(DOT)PURINE(DOT) PYRIMIDINE DNA TRIPLEX CONTAINING T(DOT)AT, C+(DOT)GC AND G(DOT)TA TRIPLES
+GAATAGG
+>pdb|149D|A Chain A, SOLUTION STRUCTURE OF A PYRIMIDINE(DOT)PURINE(DOT) PYRIMIDINE DNA TRIPLEX CONTAINING T(DOT)AT, C+(DOT)GC AND G(DOT)TA TRIPLES
+CCTATTC
+>pdb|1NZM|D Chain D, NMR structure of the parallel-stranded DNA quadruplex d(TTAGGGT)4 complexed with the telomerase inhibitor RHPS4
+TTAGGGT
+>pdb|1NZM|C Chain C, NMR structure of the parallel-stranded DNA quadruplex d(TTAGGGT)4 complexed with the telomerase inhibitor RHPS4
+TTAGGGT
+>pdb|1NZM|B Chain B, NMR structure of the parallel-stranded DNA quadruplex d(TTAGGGT)4 complexed with the telomerase inhibitor RHPS4
+TTAGGGT
+>pdb|1NZM|A Chain A, NMR structure of the parallel-stranded DNA quadruplex d(TTAGGGT)4 complexed with the telomerase inhibitor RHPS4
+TTAGGGT
+>pdb|1NP9|D Chain D, Structure of the parallel-stranded DNA quadruplex d(TTAGGGA)4 containing the human telomeric repeat
+TTAGGGT
+>pdb|1NP9|C Chain C, Structure of the parallel-stranded DNA quadruplex d(TTAGGGA)4 containing the human telomeric repeat
+TTAGGGT
+>pdb|1NP9|B Chain B, Structure of the parallel-stranded DNA quadruplex d(TTAGGGA)4 containing the human telomeric repeat
+TTAGGGT
+>pdb|1NP9|A Chain A, Structure of the parallel-stranded DNA quadruplex d(TTAGGGA)4 containing the human telomeric repeat
+TTAGGGT
+>pdb|1KR8|A Chain A, Refinement of d(GCGAAGC) Hairpin Structure Using One-and Two-Bonds Residual Dipolar Couplings
+GCGAAGC
+>pdb|1EMQ|D Chain D, NMR OBSERVATION OF T-TETRADS IN A PARALLEL STRANDED DNA QUADRUPLEX FORMED BY SACCHAROMYCES CEREVISIAE TELOMERE REPEATS
+TGGTGGC
+>pdb|1EMQ|C Chain C, NMR OBSERVATION OF T-TETRADS IN A PARALLEL STRANDED DNA QUADRUPLEX FORMED BY SACCHAROMYCES CEREVISIAE TELOMERE REPEATS
+TGGTGGC
+>pdb|1EMQ|B Chain B, NMR OBSERVATION OF T-TETRADS IN A PARALLEL STRANDED DNA QUADRUPLEX FORMED BY SACCHAROMYCES CEREVISIAE TELOMERE REPEATS
+TGGTGGC
+>pdb|1EMQ|A Chain A, NMR OBSERVATION OF T-TETRADS IN A PARALLEL STRANDED DNA QUADRUPLEX FORMED BY SACCHAROMYCES CEREVISIAE TELOMERE REPEATS
+TGGTGGC
+>pdb|1B3P|B Chain B, 5'-D(*GP*GP*AP*GP*GP*AP*T)-3'
+GGAGGAT
+>pdb|1B3P|A Chain A, 5'-D(*GP*GP*AP*GP*GP*AP*T)-3'
+GGAGGAT
+>pdb|107D|B Chain B, SOLUTION STRUCTURE OF THE COVALENT DUOCARMYCIN A-DNA DUPLEX COMPLEX
+GAAAAGG
+>pdb|107D|A Chain A, SOLUTION STRUCTURE OF THE COVALENT DUOCARMYCIN A-DNA DUPLEX COMPLEX
+CCTTTTC
+>pdb|139D|D Chain D, SOLUTION STRUCTURE OF A PARALLEL-STRANDED G-QUADRUPLEX DNA
+TTGGGGT
+>pdb|139D|C Chain C, SOLUTION STRUCTURE OF A PARALLEL-STRANDED G-QUADRUPLEX DNA
+TTGGGGT
+>pdb|139D|B Chain B, SOLUTION STRUCTURE OF A PARALLEL-STRANDED G-QUADRUPLEX DNA
+TTGGGGT
+>pdb|139D|A Chain A, SOLUTION STRUCTURE OF A PARALLEL-STRANDED G-QUADRUPLEX DNA
+TTGGGGT
+>pdb|6LMR|B Chain B, Solution structure of cold shock domain and ssDNA complex
+NACACCT
+>PA339785.1 JP 2021521851-A/13: GENE THERAPY CONSTRUCTS AND METHODS OF USE
+CACCATG
+>PA339776.1 JP 2021521851-A/4: GENE THERAPY CONSTRUCTS AND METHODS OF USE
+AAGATGA
+>PA339775.1 JP 2021521851-A/3: GENE THERAPY CONSTRUCTS AND METHODS OF USE
+ANNATGA
+>PA278397.1 JP 2021518747-A/14: Gold Optimized CAR T-cells
+TGGGGAT
+>PA278392.1 JP 2021518747-A/9: Gold Optimized CAR T-cells
+TTTTTTT
+>PA278391.1 JP 2021518747-A/8: Gold Optimized CAR T-cells
+TTTATTT
+>PA278389.1 JP 2021518747-A/6: Gold Optimized CAR T-cells
+TTTGTTT
+>PA278387.1 JP 2021518747-A/4: Gold Optimized CAR T-cells
+TGGGGAT
+>pdb|7M50|a Chain a, Crystallographic structure of a cubic crystal form of STMV grown from ammonium sulfate
+NAAAAAA
+>pdb|7M50|Y Chain Y, Crystallographic structure of a cubic crystal form of STMV grown from ammonium sulfate
+NAAAAAA
+>pdb|5BKN|h Chain h, Crystallographic structure of a cubic crystal form of STMV (84.5 degree rotation) grown from chloride
+NTTTTTT
+>OF189131.1 KR 1020210005154-A/47: GENE THERAPY CONSTRUCTS AND METHODS OF USE
+CACCATG
+>OF189122.1 KR 1020210005154-A/29: GENE THERAPY CONSTRUCTS AND METHODS OF USE
+AAGATGA
+>OF189121.1 KR 1020210005154-A/28: GENE THERAPY CONSTRUCTS AND METHODS OF USE
+ANNATGA
+>OF188100.1 KR 1020210005661-A/115: PATHOGEN-RESISTANT ANIMALS HAVING MODIFIED AMINOPEPTIDASE N (ANPEP) GENES
+TACTACT
+>OF187824.1 KR 1020210005090-A/14: CHIMERIC VECTORS
+TAACAAC
+>OF265848.1 KR 1020210042128-A/26: NUCLEIC ACID MOLECULES AND USES THEREOF FOR NON-VIRAL GENE THERAPY
+AAAAAAA
+>OF142751.1 KR 1020210066758-A/21: NUCLEIC ACIDS INDUCING RNA INTERFERENCE INCLUDING 8-OXOGUANINE, MICRO RNA INCLUDING 8-OXOGUANINE, AND USE THEREOF
+GGTTGTG
+>OF142750.1 KR 1020210066758-A/20: NUCLEIC ACIDS INDUCING RNA INTERFERENCE INCLUDING 8-OXOGUANINE, MICRO RNA INCLUDING 8-OXOGUANINE, AND USE THEREOF
+ACATTCC
+>OF142736.1 KR 1020210066758-A/6: NUCLEIC ACIDS INDUCING RNA INTERFERENCE INCLUDING 8-OXOGUANINE, MICRO RNA INCLUDING 8-OXOGUANINE, AND USE THEREOF
+AAATTCC
+>OF142735.1 KR 1020210066758-A/5: NUCLEIC ACIDS INDUCING RNA INTERFERENCE INCLUDING 8-OXOGUANINE, MICRO RNA INCLUDING 8-OXOGUANINE, AND USE THEREOF
+ACATTAC
+>OF142734.1 KR 1020210066758-A/4: NUCLEIC ACIDS INDUCING RNA INTERFERENCE INCLUDING 8-OXOGUANINE, MICRO RNA INCLUDING 8-OXOGUANINE, AND USE THEREOF
+ACATTCA
+>OF138414.1 KR 1020210080071-A/6: Expression cassette for expressing target protein highly and method for using the same
+TGCTGAC
+>OF138413.1 KR 1020210080071-A/5: Expression cassette for expressing target protein highly and method for using the same
+TGCTAAC
+>OF138412.1 KR 1020210080071-A/4: Expression cassette for expressing target protein highly and method for using the same
+TACTAAC
+>OF254148.1 KR 1020210030965-A/17: GENE THERAPY VECTORS FOR TREATMENT OF DANON DISEASE
+ACCATGG
+>OF254147.1 KR 1020210030965-A/16: GENE THERAPY VECTORS FOR TREATMENT OF DANON DISEASE
+ANNATGG
+>OF287826.1 KR 1020210069075-A/5: METHODS AND COMPOSITIONS FOR OCULAR CELL THERAPY
+NNAGAAW
+>OF167873.1 KR 1020210005074-A/115: METHODS FOR PROTECTING PORCINE FETUSES FROM INFECTION WITH VIRUS
+TACTACT
+>OF247446.1 KR 1020210016078-A/2304: CHIRAL CONTROL
+CAGGTAA
+>OF245247.1 KR 1020210016078-A/102: CHIRAL CONTROL
+TGTCGYT
+>OF284362.1 KR 1020210068068-A/1813: FRATAXIN EXPRESSION CONSTRUCTS HAVING ENGINEERED PROMOTERS AND METHODS OF USE THEREOF
+CGGGAGC
+>OF245176.1 KR 1020210016078-A/31: CHIRAL CONTROL
+CAACGTT
+>OF198877.1 KR 1020210020031-A/144: NON-HUMAN ANIMALS CAPABLE OF DH-DH REARRANGEMENT IN THE IMMUNOGLOBULIN HEAVY CHAIN CODING SEQUENCES
+CACAGTG
+>OF197443.1 KR 1020210013580-A/4: PEST CONTROL COMPOSITIONS AND USES THEREOF
+NNNGATT
+>OF237995.1 KR 1020210027389-A/52: COMPOSITIONS AND METHODS FOR GENOMIC EDITING BY INSERTION OF DONOR POLYNUCLEOTIDES
+TACTGAC
+>OF237994.1 KR 1020210027389-A/51: COMPOSITIONS AND METHODS FOR GENOMIC EDITING BY INSERTION OF DONOR POLYNUCLEOTIDES
+GTTAATA
+>OF237993.1 KR 1020210027389-A/50: COMPOSITIONS AND METHODS FOR GENOMIC EDITING BY INSERTION OF DONOR POLYNUCLEOTIDES
+TATTAAC
+>OF275169.1 KR 1020210049861-A/4: METHODS FOR MANUFACTURING PLANT MESSENGER PACKS
+NNNGATT
+>OF275119.1 KR 1020210049138-A/4: MODIFIED PLANT MESSENGER PACKS AND USES THEREOF
+NNNGATT
+>OF197426.1 KR 1020210013085-A/4: PATHOGEN CONTROL COMPOSITIONS AND USES THEREOF
+NNNGATT
+>OF275059.1 KR 1020210049137-A/4: METHODS AND COMPOSITIONS FOR THE MODIFICATION OF PLANTS
+NNNGATT
+>pdb|7L6T|C Chain C, Crystal Structure of SARS-CoV-2 Nsp16/10 Heterodimer in Complex with (m7GpppA2m)pUpUpApApA (Cap-1), S-Adenosyl-L-homocysteine (SAH) and two Magnesium (Mg) ions.
+NNTTAAA
+>pdb|7L6R|C Chain C, Crystal Structure of SARS-CoV-2 Nsp16/10 Heterodimer in Complex with (m7GpppA2m)pUpUpApApA (Cap-1), S-Adenosyl-L-homocysteine (SAH) and Manganese (Mn).
+NNTTAAA
+>pdb|7JYY|F Chain F, Crystal Structure of SARS-CoV-2 Nsp16/10 Heterodimer in Complex with (m7GpppA)pUpUpApApA (Cap-0) and S-Adenosylmethionine (SAM).
+NATTAAA
+>pdb|7JYY|E Chain E, Crystal Structure of SARS-CoV-2 Nsp16/10 Heterodimer in Complex with (m7GpppA)pUpUpApApA (Cap-0) and S-Adenosylmethionine (SAM).
+NATTAAA
+>pdb|7BMA|D Chain D, AG repetition attached to an extended i-motif clip at 3'-end
+AGAGCNN
+>pdb|7BMA|C Chain C, AG repetition attached to an extended i-motif clip at 3'-end
+AGAGNCN
+>pdb|7BMA|B Chain B, AG repetition attached to an extended i-motif clip at 3'-end
+AGAGCNN
+>pdb|7BMA|A Chain A, AG repetition attached to an extended i-motif clip at 3'-end
+AGAGNCN
+>pdb|7BLM|D Chain D, AG repetition attached to a compact i-motif clip at 3'-end
+AGAGCNC
+>pdb|7BLM|C Chain C, AG repetition attached to a compact i-motif clip at 3'-end
+AGAGCNC
+>pdb|7BLM|B Chain B, AG repetition attached to a compact i-motif clip at 3'-end
+AGAGNCN
+>pdb|7BLM|A Chain A, AG repetition attached to a compact i-motif clip at 3'-end
+AGAGNCN
+>pdb|7BI0|D Chain D, GA repetition with i-motif clip at 5'-end
+CNCGAGA
+>pdb|7BI0|C Chain C, GA repetition with i-motif clip at 5'-end
+CNCGAGA
+>pdb|7BI0|B Chain B, GA repetition with i-motif clip at 5'-end
+NCNGAGA
+>pdb|7BI0|A Chain A, GA repetition with i-motif clip at 5'-end
+NCNGAGA
+>MQ281346.1 Sequence 17 from Patent WO2021222719
+AGGAGGT
+>MQ280764.1 Sequence 12 from Patent EP3911663
+GATTACA
+>MQ280763.1 Sequence 11 from Patent EP3911663
+GATTACA
+>MQ280762.1 Sequence 10 from Patent EP3911663
+GATTACA
+>MQ280761.1 Sequence 9 from Patent EP3911663
+GATTACA
+>MQ280760.1 Sequence 8 from Patent EP3911663
+GATTACA
+>MQ301258.1 Sequence 33 from Patent WO2021229218
+TAACTAG
+>MQ301257.1 Sequence 32 from Patent WO2021229218
+TAGCTAG
+>MQ301256.1 Sequence 31 from Patent WO2021229218
+TGACTAG
+>MQ301233.1 Sequence 8 from Patent WO2021229218
+TAACTAG
+>MQ301232.1 Sequence 7 from Patent WO2021229218
+TAGCTAG
+>MQ301231.1 Sequence 6 from Patent WO2021229218
+TGACTAG
+>MQ301227.1 Sequence 2 from Patent WO2021229218
+TTTTTTT
+>MQ289287.1 Sequence 6 from Patent WO2021216978
+TCAAGAG
+>MQ281358.1 Sequence 29 from Patent WO2021222719
+ARRAKAT
+>MQ281357.1 Sequence 28 from Patent WO2021222719
+ARGAGRT
+>MQ281352.1 Sequence 23 from Patent WO2021222719
+AAAATAT
+>MQ281351.1 Sequence 22 from Patent WO2021222719
+AAAAGAT
+>MQ281350.1 Sequence 21 from Patent WO2021222719
+AAGAGAT
+>MQ281349.1 Sequence 20 from Patent WO2021222719
+AGGAGAT
+>MQ281348.1 Sequence 19 from Patent WO2021222719
+AAAAGAT
+>MQ281347.1 Sequence 18 from Patent WO2021222719
+AAGAGAT
+>pdb|1WRQ|D Chain D, Crystal Structure of HutP-Antitermination complex
+TTTAGTT
+>pdb|1WRQ|C Chain C, Crystal Structure of HutP-Antitermination complex
+TTTAGTT
+>pdb|1WPU|D Chain D, Crystal Structure of the HutP antitermination complex bound to a single stranded region of hut mRNA
+TTGAGTT
+>pdb|1WPU|C Chain C, Crystal Structure of the HutP antitermination complex bound to a single stranded region of hut mRNA
+TTGAGTT
+>pdb|1WMQ|D Chain D, Structure of the HutP antitermination complex bound to a single stranded region of hut mRNA
+NTTAGTT
+>pdb|1WMQ|C Chain C, Structure of the HutP antitermination complex bound to a single stranded region of hut mRNA
+NTTAGTT
+>pdb|1KFS|B Chain B, DNA POLYMERASE I KLENOW FRAGMENT (E.C.2.7.7.7) MUTANT/DNA COMPLEX
+GCTTACG
+>pdb|2KZZ|B Chain B, KLENOW FRAGMENT WITH NORMAL SUBSTRATE AND ZINC ONLY
+GCTTACG
+>pdb|2KFZ|B Chain B, KLENOW FRAGMENT WITH BRIDGING-SULFUR SUBSTRATE AND ZINC ONLY
+GCTTANG
+>pdb|2KFN|B Chain B, KLENOW FRAGMENT WITH BRIDGING-SULFUR SUBSTRATE AND MANGANESE
+GCTTANG
+>MQ265101.1 Sequence 11 from Patent WO2021209743
+TGACGTG
+>MQ265093.1 Sequence 3 from Patent WO2021209743
+TGAGTCA
+>MQ265092.1 Sequence 2 from Patent WO2021209743
+TGASTCA
+>MQ264868.1 Sequence 12 from Patent WO2021212101
+CACCATG
+>MQ264867.1 Sequence 11 from Patent WO2021212101
+CACTATG
+>MQ263018.1 Sequence 12 from Patent WO2021212096
+CACCATG
+>MQ263017.1 Sequence 11 from Patent WO2021212096
+CACTATG
+>pdb|1M3H|D Chain D, Crystal Structure of Hogg1 D268E Mutant with Product Oligonucleotide
+NTCTACC
+>PA269008.1 WO 2021132661-A/7: Production method for library, cyclic peptide, binding agents for FXIIa and IFNGR1
+TTCGAAT
+>PA268624.1 WO 2021132528-A/2: OLIGODEOXYNUCLEOTIDE CONTAINING SHORT CPG ODN LINKED WITH POLYDEOXYADENYLIC ACID, COMPLEX CONTAINING SAID OLIGODEOXYNUCLEOTIDE, AND USE THEREOF
+ATCGTCG
+>PA272002.1 JP 2021511035-A/35: METHODS AND COMPOSITIONS FOR INHIBITION OF INNATE IMMUNE RESPONSE ASSOCIATED WITH AAV TRANSDUCTION
+CCACACT
+>MQ210969.1 Sequence 14 from Patent EP3887519
+CNCNCNC
+>MQ210968.1 Sequence 13 from Patent EP3887519
+CNCNCNC
+>MQ241026.1 Sequence 1 from Patent EP3892282
+CTGACTC
+>MQ234949.1 Sequence 35 from Patent WO2021202425
+GCATGCT
+>MQ220495.1 Sequence 43 from Patent WO2021191628
+TGACTCA
+>MQ220464.1 Sequence 11 from Patent WO2021191628
+TGACGTG
+>MQ220456.1 Sequence 3 from Patent WO2021191628
+TGAGTCA
+>MQ220455.1 Sequence 2 from Patent WO2021191628
+TGASTCA
+>pdb|3E2E|R Chain R, Crystal Structure of an Intermediate Complex of T7 RNAP and 7nt of RNA
+GGGAGTG
+>pdb|2PY5|J Chain J, Phi29 DNA polymerase complexed with single-stranded DNA
+GGACTTT
+>pdb|3E44|H Chain H, Q138F HincII bound to cleaved DNA (GTT | AAC) and Mn2+
+NACCGGC
+>pdb|3E44|G Chain G, Q138F HincII bound to cleaved DNA (GTT | AAC) and Mn2+
+GCCGGTT
+>pdb|3E44|F Chain F, Q138F HincII bound to cleaved DNA (GTT | AAC) and Mn2+
+NACCGGC
+>pdb|3E44|E Chain E, Q138F HincII bound to cleaved DNA (GTT | AAC) and Mn2+
+GCCGGTT
+>pdb|2PY5|E Chain E, Phi29 DNA polymerase complexed with single-stranded DNA
+GGACTTT
+>pdb|2PY5|L Chain L, Phi29 DNA polymerase complexed with single-stranded DNA
+GGACTTT
+>pdb|2PY5|D Chain D, Phi29 DNA polymerase complexed with single-stranded DNA
+GGACTTT
+>pdb|2PY5|Y Chain Y, Phi29 DNA polymerase complexed with single-stranded DNA
+GGACTTT
+>pdb|2PFQ|P Chain P, Manganese promotes catalysis in a DNA polymerase lambda-DNA crystal
+CAGTACC
+>pdb|2HEO|E Chain E, General Structure-Based Approach to the Design of Protein Ligands: Application to the Design of Kv1.2 Potassium Channel Blockers.
+TCGCGCG
+>pdb|2HEO|B Chain B, General Structure-Based Approach to the Design of Protein Ligands: Application to the Design of Kv1.2 Potassium Channel Blockers.
+TCGCGCG
+>pdb|1XSP|P Chain P, Crystal Structure of human DNA polymerase lambda in complex with nicked DNA and pyrophosphate
+CAGTACG
+>pdb|3J0Q|d Chain d, Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 10.6A cryo-em map: rotated PRE state 2
+NGAGGAA
+>MQ209539.1 Sequence 209 from Patent EP3814505
+AACATGA
+>MQ209535.1 Sequence 205 from Patent EP3814505
+ACACCGA
+>MQ209531.1 Sequence 201 from Patent EP3814505
+CGAGCAC
+>MQ205610.1 Sequence 22 from Patent WO2021181118
+GGGGTCA
+>MQ205074.1 Sequence 17 from Patent WO2021181108
+GTGAGTA
+>MQ193567.1 Sequence 14 from Patent EP3868874
+GCGCGCC
+>PA265683.1 WO 2021100833-A/3: Logical engineering of T-stem of tRNA that enhances D-amino acid incorporation
+TTCGAAT
+>PA263507.1 JP 2021078428-A/3: Logical engineering of T-stem of tRNA that enhances D-amino acid incorporation
+TTCGAAT
+>pdb|6KXZ|D Chain D, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 EPIRUBICIN (EPI) MOLECULES
+TTAGGGT
+>pdb|6KXZ|C Chain C, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 EPIRUBICIN (EPI) MOLECULES
+TTAGGGT
+>pdb|6KXZ|B Chain B, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 EPIRUBICIN (EPI) MOLECULES
+TTAGGGT
+>pdb|6KXZ|A Chain A, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 EPIRUBICIN (EPI) MOLECULES
+TTAGGGT
+>pdb|7O19|B7 Chain B7, Cryo-EM structure of an Escherichia coli TnaC-ribosome complex stalled in response to L-tryptophan
+NGCCCGT
+>MQ189282.1 Sequence 50 from Patent WO2021170786
+GGAAGAC
+>MQ189281.1 Sequence 49 from Patent WO2021170786
+ACTGGCC
+>MQ189280.1 Sequence 48 from Patent WO2021170786
+TTCAGCC
+>MQ189279.1 Sequence 47 from Patent WO2021170786
+CAGCCAG
+>MQ189278.1 Sequence 46 from Patent WO2021170786
+TTCAGCC
+>MQ189277.1 Sequence 45 from Patent WO2021170786
+TCAGCCA
+>MQ189276.1 Sequence 44 from Patent WO2021170786
+AAGTGCT
+>MQ189275.1 Sequence 43 from Patent WO2021170786
+AGTGCTT
+>MQ189274.1 Sequence 42 from Patent WO2021170786
+GTGAAAC
+>MQ189273.1 Sequence 41 from Patent WO2021170786
+TATCTGT
+>MQ189272.1 Sequence 40 from Patent WO2021170786
+GAAACTG
+>MQ189271.1 Sequence 39 from Patent WO2021170786
+ATCTGTG
+>MQ189270.1 Sequence 38 from Patent WO2021170786
+ATGGTTA
+>MQ189269.1 Sequence 37 from Patent WO2021170786
+TGCTATC
+>MQ189268.1 Sequence 36 from Patent WO2021170786
+CTATCTG
+>MQ189267.1 Sequence 35 from Patent WO2021170786
+CTGTGAA
+>MQ189266.1 Sequence 34 from Patent WO2021170786
+TGAAACT
+>MQ189265.1 Sequence 33 from Patent WO2021170786
+GTGCTAT
+>MQ189264.1 Sequence 32 from Patent WO2021170786
+TGTGAAA
+>MQ189263.1 Sequence 31 from Patent WO2021170786
+GGTGCTA
+>MQ189262.1 Sequence 30 from Patent WO2021170786
+GCTATCT
+>MQ189261.1 Sequence 29 from Patent WO2021170786
+GGGTGCT
+>MQ189260.1 Sequence 28 from Patent WO2021170786
+GTGGTCC
+>MQ189259.1 Sequence 27 from Patent WO2021170786
+AGGTGGT
+>MQ189258.1 Sequence 26 from Patent WO2021170786
+GCTGCTT
+>MQ189257.1 Sequence 25 from Patent WO2021170786
+TGCTTGG
+>MQ189256.1 Sequence 24 from Patent WO2021170786
+CTGCTTG
+>MQ189255.1 Sequence 23 from Patent WO2021170786
+GGAAGAC
+>MQ189254.1 Sequence 22 from Patent WO2021170786
+ACTGGCC
+>MQ189253.1 Sequence 21 from Patent WO2021170786
+TCAGCCA
+>MQ189252.1 Sequence 20 from Patent WO2021170786
+AAGTGCT
+>MQ189251.1 Sequence 19 from Patent WO2021170786
+AGTGCTT
+>MQ189250.1 Sequence 18 from Patent WO2021170786
+GGGGTGC
+>MQ189249.1 Sequence 17 from Patent WO2021170786
+GGTGGTC
+>MQ180076.1 Sequence 25 from Patent WO2021170656
+GCTCTTC
+>MQ165613.1 Sequence 15 from Patent WO2021156370
+TTTTTTT
+>MQ165612.1 Sequence 14 from Patent WO2021156370
+TTTTTTT
+>MQ165599.1 Sequence 1 from Patent WO2021156370
+TTTTTTT
+>MQ164354.1 Sequence 71 from Patent WO2021156316
+TGTAAAG
+>MQ164352.1 Sequence 69 from Patent WO2021156316
+AGCCGCC
+>MQ164297.1 Sequence 14 from Patent WO2021156316
+TGACTCA
+>MQ164296.1 Sequence 13 from Patent WO2021156316
+TGACTCA
+>MQ164295.1 Sequence 12 from Patent WO2021156316
+TGACTCA
+>MQ164289.1 Sequence 6 from Patent WO2021156316
+TGAGTCA
+>MQ164288.1 Sequence 5 from Patent WO2021156316
+TGACTCA
+>MQ157089.2 Sequence 3 from Patent WO2021160625
+AAGCTTA
+>MQ157088.2 Sequence 2 from Patent WO2021160625
+AAGCCTA
+>MQ155987.1 Sequence 34 from Patent EP3863677
+GGCGTAA
+>MQ155926.1 Sequence 3 from Patent EP3867368
+TATAWAW
+>pdb|7CSK|D Chain D, A 2:1 stoichiometric complex of anticancer drug Adriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>pdb|7CSK|C Chain C, A 2:1 stoichiometric complex of anticancer drug Adriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>pdb|7CSK|B Chain B, A 2:1 stoichiometric complex of anticancer drug Adriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>pdb|7CSK|A Chain A, A 2:1 stoichiometric complex of anticancer drug Adriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>MQ144974.1 Sequence 16 from Patent WO2021152587
+SCACGTG
+>MQ144970.1 Sequence 12 from Patent WO2021152587
+CACGTGS
+>MQ144968.1 Sequence 10 from Patent WO2021152587
+CCACGTG
+>pdb|7CPS|D Chain D, A 2:1 stoichiometric complex of anticancer drug 4'-Epiadriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>pdb|7CPS|C Chain C, A 2:1 stoichiometric complex of anticancer drug 4'-Epiadriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>pdb|7CPS|B Chain B, A 2:1 stoichiometric complex of anticancer drug 4'-Epiadriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>pdb|7CPS|A Chain A, A 2:1 stoichiometric complex of anticancer drug 4'-Epiadriamycin bound to parallel G-quadruplex DNA [d-(TTGGGGT)]4.
+TTGGGGT
+>OF066200.1 KR 1020200091499-A/35: ALTERING MICROBIAL POPULATIONS & MODIFYING MICROBIOTA
+GTTTTTG
+>OF066179.1 KR 1020200091499-A/14: ALTERING MICROBIAL POPULATIONS & MODIFYING MICROBIOTA
+ATTTGAG
+>OF066178.1 KR 1020200091499-A/13: ALTERING MICROBIAL POPULATIONS & MODIFYING MICROBIOTA
+TTTGAGG
+>OF066169.1 KR 1020200091499-A/4: ALTERING MICROBIAL POPULATIONS & MODIFYING MICROBIOTA
+ATTTGAG
+>OF065728.1 KR 1020200100745-A/28: METHODS AND COMPOSITIONS FOR INDUCING AN IMMUNE RESPONSE AGAINST HEPATITIS B VIRUS (HBV)
+TTTTTNT
+>OF065643.1 KR 1020200099564-A/101: NOVEL PROCESSES FOR THE PRODUCTION OF OLIGONUCLEOTIDES
+GACCACG
+>OF017431.1 KR 1020200137636-A/836: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTCCAT
+>OF017430.1 KR 1020200137636-A/835: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATCATCT
+>OF017429.1 KR 1020200137636-A/834: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TTGTTCT
+>OF017428.1 KR 1020200137636-A/833: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GAGGTAT
+>OF017427.1 KR 1020200137636-A/832: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGTGCTT
+>OF017426.1 KR 1020200137636-A/831: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCATTT
+>OF017425.1 KR 1020200137636-A/830: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GTGACTT
+>OF017424.1 KR 1020200137636-A/829: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCACAAT
+>OF017423.1 KR 1020200137636-A/828: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CCCCCAT
+>OF017422.1 KR 1020200137636-A/827: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACCACAT
+>OF017421.1 KR 1020200137636-A/826: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCCTATT
+>OF017420.1 KR 1020200137636-A/825: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCCCTT
+>OF017419.1 KR 1020200137636-A/824: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AACACTT
+>OF017418.1 KR 1020200137636-A/823: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CCCTGAT
+>OF017417.1 KR 1020200137636-A/822: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCCAGAT
+>OF017416.1 KR 1020200137636-A/821: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GCTGGTT
+>OF017415.1 KR 1020200137636-A/820: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTCAAT
+>OF017414.1 KR 1020200137636-A/819: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AAAGCTT
+>OF017413.1 KR 1020200137636-A/818: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATACAAT
+>OF017412.1 KR 1020200137636-A/817: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CACAGTT
+>OF017411.1 KR 1020200137636-A/816: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CGTACCT
+>OF017410.1 KR 1020200137636-A/815: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGACGGT
+>OF017409.1 KR 1020200137636-A/814: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTCTGT
+>OF017408.1 KR 1020200137636-A/813: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATCTGGT
+>OF017407.1 KR 1020200137636-A/812: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGTACAT
+>OF017406.1 KR 1020200137636-A/811: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GTAACAT
+>OF017405.1 KR 1020200137636-A/810: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTATAT
+>OF017404.1 KR 1020200137636-A/809: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTAGAT
+>OF017403.1 KR 1020200137636-A/808: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AATACTT
+>OF017402.1 KR 1020200137636-A/807: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TAAGACT
+>OF017401.1 KR 1020200137636-A/806: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCATAT
+>OF017400.1 KR 1020200137636-A/805: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGAAATT
+>OF017399.1 KR 1020200137636-A/804: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTTGAT
+>OF017398.1 KR 1020200137636-A/803: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGCAGTT
+>OF017397.1 KR 1020200137636-A/802: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTGCAT
+>OF017396.1 KR 1020200137636-A/801: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TATAAAT
+>OF017395.1 KR 1020200137636-A/800: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGCTCAT
+>OF017394.1 KR 1020200137636-A/799: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGCAGCT
+>OF017393.1 KR 1020200137636-A/798: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CGACCGT
+>OF017392.1 KR 1020200137636-A/797: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGTTGGT
+>OF017391.1 KR 1020200137636-A/796: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGTGCGT
+>OF017390.1 KR 1020200137636-A/795: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TTATCAT
+>OF016568.1 KR 1020200137635-A/836: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTCCAT
+>OF016567.1 KR 1020200137635-A/835: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATCATCT
+>OF016566.1 KR 1020200137635-A/834: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TTGTTCT
+>OF016565.1 KR 1020200137635-A/833: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GAGGTAT
+>OF016564.1 KR 1020200137635-A/832: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGTGCTT
+>OF016563.1 KR 1020200137635-A/831: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCATTT
+>OF016562.1 KR 1020200137635-A/830: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GTGACTT
+>OF016561.1 KR 1020200137635-A/829: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCACAAT
+>OF016560.1 KR 1020200137635-A/828: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CCCCCAT
+>OF016559.1 KR 1020200137635-A/827: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACCACAT
+>OF016558.1 KR 1020200137635-A/826: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCCTATT
+>OF016557.1 KR 1020200137635-A/825: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCCCTT
+>OF016556.1 KR 1020200137635-A/824: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AACACTT
+>OF016555.1 KR 1020200137635-A/823: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CCCTGAT
+>OF016554.1 KR 1020200137635-A/822: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCCAGAT
+>OF016553.1 KR 1020200137635-A/821: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GCTGGTT
+>OF016552.1 KR 1020200137635-A/820: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTCAAT
+>OF016551.1 KR 1020200137635-A/819: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AAAGCTT
+>OF016550.1 KR 1020200137635-A/818: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATACAAT
+>OF016549.1 KR 1020200137635-A/817: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CACAGTT
+>OF016548.1 KR 1020200137635-A/816: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CGTACCT
+>OF016547.1 KR 1020200137635-A/815: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGACGGT
+>OF016546.1 KR 1020200137635-A/814: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTCTGT
+>OF016545.1 KR 1020200137635-A/813: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATCTGGT
+>OF016544.1 KR 1020200137635-A/812: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGTACAT
+>OF016543.1 KR 1020200137635-A/811: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GTAACAT
+>OF016542.1 KR 1020200137635-A/810: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTATAT
+>OF016541.1 KR 1020200137635-A/809: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTAGAT
+>OF016540.1 KR 1020200137635-A/808: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AATACTT
+>OF016539.1 KR 1020200137635-A/807: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TAAGACT
+>OF016538.1 KR 1020200137635-A/806: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCATAT
+>OF016537.1 KR 1020200137635-A/805: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGAAATT
+>OF016536.1 KR 1020200137635-A/804: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTTGAT
+>OF016535.1 KR 1020200137635-A/803: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGCAGTT
+>OF016534.1 KR 1020200137635-A/802: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTGCAT
+>OF016533.1 KR 1020200137635-A/801: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TATAAAT
+>OF016532.1 KR 1020200137635-A/800: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGCTCAT
+>OF016531.1 KR 1020200137635-A/799: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGCAGCT
+>OF016530.1 KR 1020200137635-A/798: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CGACCGT
+>OF016529.1 KR 1020200137635-A/797: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGTTGGT
+>OF016528.1 KR 1020200137635-A/796: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGTGCGT
+>OF016527.1 KR 1020200137635-A/795: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TTATCAT
+>OF098349.1 KR 1020200123165-A/41: CANCER THERAPEUTIC TARGETING USING MUTANT P53-SPECIFIC SIRNAS
+TTTTTTA
+>OF098336.1 KR 1020200123165-A/24: CANCER THERAPEUTIC TARGETING USING MUTANT P53-SPECIFIC SIRNAS
+AAGCTTT
+>OF015680.1 KR 1020200137634-A/811: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GTAACAT
+>OF015678.1 KR 1020200137634-A/809: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTAGAT
+>OF015677.1 KR 1020200137634-A/808: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AATACTT
+>OF015676.1 KR 1020200137634-A/807: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TAAGACT
+>OF015675.1 KR 1020200137634-A/806: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCATAT
+>OF015674.1 KR 1020200137634-A/805: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGAAATT
+>OF015673.1 KR 1020200137634-A/804: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTTGAT
+>OF015672.1 KR 1020200137634-A/803: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGCAGTT
+>OF015671.1 KR 1020200137634-A/802: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTGCAT
+>OF015670.1 KR 1020200137634-A/801: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TATAAAT
+>OF015669.1 KR 1020200137634-A/800: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGCTCAT
+>OF015668.1 KR 1020200137634-A/799: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGCAGCT
+>OF015667.1 KR 1020200137634-A/798: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CGACCGT
+>OF015666.1 KR 1020200137634-A/797: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGTTGGT
+>OF015665.1 KR 1020200137634-A/796: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GGTGCGT
+>OF015664.1 KR 1020200137634-A/795: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TTATCAT
+>OF015705.1 KR 1020200137634-A/836: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTCCAT
+>OF015704.1 KR 1020200137634-A/835: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATCATCT
+>OF015703.1 KR 1020200137634-A/834: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TTGTTCT
+>OF015702.1 KR 1020200137634-A/833: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GAGGTAT
+>OF015701.1 KR 1020200137634-A/832: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGTGCTT
+>OF015700.1 KR 1020200137634-A/831: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCATTT
+>OF015699.1 KR 1020200137634-A/830: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GTGACTT
+>OF015698.1 KR 1020200137634-A/829: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCACAAT
+>OF015697.1 KR 1020200137634-A/828: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CCCCCAT
+>OF015696.1 KR 1020200137634-A/827: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACCACAT
+>OF015695.1 KR 1020200137634-A/826: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCCTATT
+>OF015694.1 KR 1020200137634-A/825: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGCCCTT
+>OF015693.1 KR 1020200137634-A/824: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AACACTT
+>OF015692.1 KR 1020200137634-A/823: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CCCTGAT
+>OF015691.1 KR 1020200137634-A/822: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCCAGAT
+>OF015690.1 KR 1020200137634-A/821: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+GCTGGTT
+>OF015689.1 KR 1020200137634-A/820: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TCTCAAT
+>OF015688.1 KR 1020200137634-A/819: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AAAGCTT
+>OF015687.1 KR 1020200137634-A/818: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATACAAT
+>OF015686.1 KR 1020200137634-A/817: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CACAGTT
+>OF015685.1 KR 1020200137634-A/816: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+CGTACCT
+>OF015684.1 KR 1020200137634-A/815: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+AGACGGT
+>OF015683.1 KR 1020200137634-A/814: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTCTGT
+>OF015682.1 KR 1020200137634-A/813: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ATCTGGT
+>OF015681.1 KR 1020200137634-A/812: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+TGTACAT
+>OF015679.1 KR 1020200137634-A/810: RNA interference inducing nucleic acids suppressing noncanonical targets of microRNA and use thereof
+ACTATAT
+>OF096252.1 KR 1020200118089-A/26: USE OF LENTIVIRAL VECTORS EXPRESSING FACTOR VIII
+AAAAAAA
+>OF131735.1 KR 1020200136508-A/14: TARGETED MODIFICATION OF RAT GENOME
+TGCTGAG
+>OF092376.1 KR 1020200100206-A/1: DNA-ENCODED LIBRARIES HAVING ENCODING OLIGONUCLEOTIDE LINKAGES NOT READABLE BY POLYMERASES
+GTGCTGC
+>OF092315.1 KR 1020200110376-A/44: ADENO-ASSOCIATED VIRUS GENE THERAPY FOR 21-HYDROXYLASE DEFICIENCY
+ACCATGG
+>OF117902.1 KR 1020200132924-A/200: SYSTEMS AND METHODS FOR THE TREATMENT OF HEMOGLOBINOPATHIES
+NNAGAAW
+>OF036184.1 KR 1020200079300-A/49: VECTOR CONSTRUCT
+AGGAGGT
+>pdb|6GQB|AY Chain AY, Cryo-EM reconstruction of yeast 80S ribosome in complex with mRNA, tRNA and eEF2 (GDP+AlF4/sordarin)
+NAATTTT
+>PA261377.1 JP 2021061785-A/6: Mutated CeR-2a RNA homolog and uses thereof
+CAGTCGT
+>pdb|7NJC|B Chain B, Crystal structure of the Toxoplasma CPSF4 YTH-domain in complex with a 7 mer m6A-modified RNA
+GANCATT
+>MQ107816.1 Sequence 41 from Patent WO2021122982
+GGTAAGG
+>MQ105224.1 Sequence 36 from Patent WO2021123074
+CACCAAC
+>MQ105196.1 Sequence 8 from Patent WO2021123074
+GTTGGTG
+>MQ080745.1 Sequence 3 from Patent WO2021113494
+CGGCCGC
+>MQ072779.1 Sequence 4 from Patent WO2021108459
+CGAATTC
+>pdb|7NDJ|C Chain C, Crystal structure of ZC3H12C PIN-CCCH Zn Finger domain with RNA heptamer
+TTATTAT
+>MQ061580.1 Sequence 167 from Patent EP3814524
+GATTACA
+>MQ061577.1 Sequence 164 from Patent EP3814524
+GATTACA
+>MQ051750.1 Sequence 116 from Patent WO2021094752
+KAGNATG
+>MQ051749.1 Sequence 115 from Patent WO2021094752
+KAGNNTG
+>MQ051740.1 Sequence 106 from Patent WO2021094752
+GTGAGTA
+>MQ051708.1 Sequence 74 from Patent WO2021094752
+TAGGATG
+>MQ051707.1 Sequence 73 from Patent WO2021094752
+TAGCATG
+>MQ051706.1 Sequence 72 from Patent WO2021094752
+TAGAATG
+>MQ051705.1 Sequence 71 from Patent WO2021094752
+GAGGATG
+>MQ051704.1 Sequence 70 from Patent WO2021094752
+GAGCATG
+>MQ051703.1 Sequence 69 from Patent WO2021094752
+GAGAATG
+>MQ051664.1 Sequence 30 from Patent WO2021094752
+KAGVATG
+>MQ049100.1 Sequence 18 from Patent WO2021097255
+TAGTCGA
+>MQ049099.1 Sequence 17 from Patent WO2021097255
+TAGTCGA
+>MQ049098.1 Sequence 16 from Patent WO2021097255
+TAGTCGA
+>MQ049096.1 Sequence 14 from Patent WO2021097255
+CGCTACG
+>MQ049094.1 Sequence 12 from Patent WO2021097255
+CGCTACG
+>OG170241.1 WO 2021025104-A/22: Plant RNA
+TTCTTCT
+>OG170231.1 WO 2021025104-A/12: Plant RNA
+TCTTCTT
+>OG170221.1 WO 2021025104-A/2: Plant RNA
+CTTCTTC
+>OG168241.1 JP 2021023222-A/22: Plant RNA
+TTCTTCT
+>OG168231.1 JP 2021023222-A/12: Plant RNA
+TCTTCTT
+>OG168221.1 JP 2021023222-A/2: Plant RNA
+CTTCTTC
+>MQ037981.1 Sequence 30 from Patent WO2021084277
+GCAAACA
+>MQ037974.1 Sequence 23 from Patent WO2021084277
+CCCAGCC
+>MQ037968.1 Sequence 17 from Patent WO2021084277
+CCCAGCC
+>MQ036171.1 Sequence 167 from Patent EP3814493
+GATTACA
+>MQ036168.1 Sequence 164 from Patent EP3814493
+GATTACA
+>MQ035472.1 Sequence 322 from Patent EP3814370
+GATTACA
+>MQ035317.1 Sequence 167 from Patent EP3814370
+GATTACA
+>MQ035316.1 Sequence 166 from Patent EP3814370
+GATTACA
+>MQ035315.1 Sequence 165 from Patent EP3814370
+GATTACA
+>MQ032562.1 Sequence 1005 from Patent EP3814510
+TCTCACG
+>MQ032551.1 Sequence 994 from Patent EP3814510
+GANNGNG
+>MQ032550.1 Sequence 993 from Patent EP3814510
+ACGTGAG
+>MQ032548.1 Sequence 991 from Patent EP3814510
+ACGTGCG
+>MQ032288.1 Sequence 731 from Patent EP3814510
+ACGAGAC
+>MQ032287.1 Sequence 730 from Patent EP3814510
+CCGGCAT
+>MQ032286.1 Sequence 729 from Patent EP3814510
+GAGCGCC
+>MQ031690.1 Sequence 133 from Patent EP3814510
+TTTGGGC
+>MQ031689.1 Sequence 132 from Patent EP3814510
+CATCCAT
+>MQ031572.1 Sequence 15 from Patent EP3814510
+CACGGCG
+>MP992434.1 Sequence 35 from Patent WO2021050779
+GCATGCT
+>OG163021.1 WO 2020241876-A/1: Methods for Efficiently Producing PPR Proteins and Use thereof
+GGTCTCN
+>MP840191.1 Sequence 2 from Patent EP3740063
+GTTTCTT
+>MP840145.1 Sequence 2 from Patent EP3740062
+GTTTCTT
+>MP838430.1 Sequence 29 from Patent EP3595676
+TTATTTA
+>MP838150.1 Sequence 1 from Patent EP3743516
+WGATAAR
+>MP837705.1 Sequence 35 from Patent EP3740572
+CCACACT
+>MP724118.1 Sequence 64 from Patent WO2020128015
+TGTAAAG
+>MP724116.1 Sequence 62 from Patent WO2020128015
+AGCCGCC
+>MP724069.1 Sequence 14 from Patent WO2020128015
+TGACTCA
+>MP724068.1 Sequence 13 from Patent WO2020128015
+TGACTCA
+>MP724067.1 Sequence 12 from Patent WO2020128015
+TGACTCA
+>MP724061.1 Sequence 6 from Patent WO2020128015
+TGAGTCA
+>MP724060.1 Sequence 5 from Patent WO2020128015
+TGACTCA
+>MP931347.1 Sequence 63 from Patent EP3784689
+GGGSGGG
+>MP829383.1 Sequence 44 from Patent WO2020227642
+CCCCGGC
+>MP829319.1 Sequence 1 from Patent EP3737393
+ACATTCA
+>MP930578.1 Sequence 50 from Patent WO2021028081
+GGAAGAC
+>MP930577.1 Sequence 49 from Patent WO2021028081
+ACTGGCC
+>MP930576.1 Sequence 48 from Patent WO2021028081
+TTCAGCC
+>MP930575.1 Sequence 47 from Patent WO2021028081
+CAGCCAG
+>MP930574.1 Sequence 46 from Patent WO2021028081
+TTCAGCC
+>MP930573.1 Sequence 45 from Patent WO2021028081
+TCAGCCA
+>MP930572.1 Sequence 44 from Patent WO2021028081
+AAGTGCT
+>MP930571.1 Sequence 43 from Patent WO2021028081
+AGTGCTT
+>MP930570.1 Sequence 42 from Patent WO2021028081
+GTGAAAC
+>MP930569.1 Sequence 41 from Patent WO2021028081
+TATCTGT
+>MP930568.1 Sequence 40 from Patent WO2021028081
+GAAACTG
+>MP930567.1 Sequence 39 from Patent WO2021028081
+ATCTGTG
+>MP930566.1 Sequence 38 from Patent WO2021028081
+ATGGTTA
+>MP930565.1 Sequence 37 from Patent WO2021028081
+TGCTATC
+>MP930564.1 Sequence 36 from Patent WO2021028081
+CTATCTG
+>MP930563.1 Sequence 35 from Patent WO2021028081
+CTGTGAA
+>MP930562.1 Sequence 34 from Patent WO2021028081
+TGAAACT
+>MP930561.1 Sequence 33 from Patent WO2021028081
+GTGCTAT
+>MP930560.1 Sequence 32 from Patent WO2021028081
+TGTGAAA
+>MP930559.1 Sequence 31 from Patent WO2021028081
+GGTGCTA
+>MP930558.1 Sequence 30 from Patent WO2021028081
+GCTATCT
+>MP930557.1 Sequence 29 from Patent WO2021028081
+GGGTGCT
+>MP930556.1 Sequence 28 from Patent WO2021028081
+GTGGTCC
+>MP930555.1 Sequence 27 from Patent WO2021028081
+AGGTGGT
+>MP930554.1 Sequence 26 from Patent WO2021028081
+GCTGCTT
+>MP930553.1 Sequence 25 from Patent WO2021028081
+TGCTTGG
+>MP930552.1 Sequence 24 from Patent WO2021028081
+CTGCTTG
+>MP930551.1 Sequence 23 from Patent WO2021028081
+GGAAGAC
+>MP930550.1 Sequence 22 from Patent WO2021028081
+ACTGGCC
+>MP930549.1 Sequence 21 from Patent WO2021028081
+TCAGCCA
+>MP930548.1 Sequence 20 from Patent WO2021028081
+AAGTGCT
+>MP930547.1 Sequence 19 from Patent WO2021028081
+AGTGCTT
+>MP930546.1 Sequence 18 from Patent WO2021028081
+GGGGTGC
+>MP930545.1 Sequence 17 from Patent WO2021028081
+GGTGGTC
+>MP826202.1 Sequence 195 from Patent WO2020227510
+CCCCGGC
+>MP825708.1 Sequence 44 from Patent WO2020227615
+CCCCGGC
+>MP823802.1 Sequence 34 from Patent WO2020227537
+CCCCGGC
+>MP700030.1 Sequence 137 from Patent EP3673054
+ACCATGT
+>MP700028.1 Sequence 135 from Patent EP3673054
+CAACAGG
+>MP910441.1 Sequence 3 from Patent WO2021016239
+TTTTTTT
+>MP910439.1 Sequence 1 from Patent WO2021016239
+TTTTTTT
+>MP696987.1 Sequence 11 from Patent EP3673065
+CACCNGG
+>MP900837.1 Sequence 84 from Patent EP3775217
+AGCCTCG
+>MP900810.1 Sequence 57 from Patent EP3775217
+TTGGGCA
+>MP690182.1 Sequence 18 from Patent WO2020120442
+AAAAAAA
+>MP690180.1 Sequence 16 from Patent WO2020120442
+TTTTTTT
+>MP777934.1 Sequence 123 from Patent EP3713601
+TTATTTA
+>MP666789.1 Sequence 1 from Patent EP3660166
+CCCTTCT
+>MP770062.1 Sequence 67 from Patent WO2020183131
+TAACTAG
+>MP770061.1 Sequence 66 from Patent WO2020183131
+TAGCTAG
+>MP770060.1 Sequence 65 from Patent WO2020183131
+TGACTAG
+>MP770056.1 Sequence 61 from Patent WO2020183131
+TTTTTTT
+>MP665682.1 Sequence 17 from Patent WO2020104424
+TGAGTCA
+>MP665678.1 Sequence 13 from Patent WO2020104424
+CCTTTGA
+>MP665677.1 Sequence 12 from Patent WO2020104424
+AGCTTCA
+>MP664170.1 Sequence 45 from Patent WO2020102565
+CGATACT
+>MP664169.1 Sequence 44 from Patent WO2020102565
+TTWTTTT
+>MP664167.1 Sequence 42 from Patent WO2020102565
+ATTTTTT
+>MP664166.1 Sequence 41 from Patent WO2020102565
+CCAAMCC
+>MP664163.1 Sequence 38 from Patent WO2020102565
+YTTTTTT
+>MP664162.1 Sequence 37 from Patent WO2020102565
+YTTTTTT
+>MP664161.1 Sequence 36 from Patent WO2020102565
+YTTTTTT
+>MP664160.1 Sequence 35 from Patent WO2020102565
+GCGCGCG
+>MP664158.1 Sequence 33 from Patent WO2020102565
+TGCGCGC
+>MP664156.1 Sequence 31 from Patent WO2020102565
+GAAAACM
+>MP664155.1 Sequence 30 from Patent WO2020102565
+CWTTTTT
+>MP664154.1 Sequence 29 from Patent WO2020102565
+GATACGA
+>MP664153.1 Sequence 28 from Patent WO2020102565
+ATTTTTK
+>MP664151.1 Sequence 26 from Patent WO2020102565
+ATTTTTK
+>MP664150.1 Sequence 25 from Patent WO2020102565
+CWTTTTT
+>MP664149.1 Sequence 24 from Patent WO2020102565
+CWTTTTT
+>MP664148.1 Sequence 23 from Patent WO2020102565
+CWTTTTT
+>MP664144.1 Sequence 19 from Patent WO2020102565
+RWTCAAG
+>MP664140.1 Sequence 15 from Patent WO2020102565
+RWTCAAG
+>MP664138.1 Sequence 13 from Patent WO2020102565
+GGAGGGV
+>MP664137.1 Sequence 12 from Patent WO2020102565
+GGAGGGV
+>MP664136.1 Sequence 11 from Patent WO2020102565
+GGAGGGV
+>MP664135.1 Sequence 10 from Patent WO2020102565
+AAAAAAA
+>MP664134.1 Sequence 9 from Patent WO2020102565
+AAAAAAA
+>MP664133.1 Sequence 8 from Patent WO2020102565
+AAAAAAA
+>MP664132.1 Sequence 7 from Patent WO2020102565
+AATSAAD
+>MP664131.1 Sequence 6 from Patent WO2020102565
+ARAAAAA
+>MP664130.1 Sequence 5 from Patent WO2020102565
+AATSAAD
+>MP664129.1 Sequence 4 from Patent WO2020102565
+AATSAAD
+>MP664128.1 Sequence 3 from Patent WO2020102565
+ARAAAAA
+>MP664127.1 Sequence 2 from Patent WO2020102565
+ARAAAAA
+>MP664126.1 Sequence 1 from Patent WO2020102565
+ARAAAAA
+>MP662658.1 Sequence 108 from Patent WO2020104782
+TGTTTGC
+>MP662653.1 Sequence 103 from Patent WO2020104782
+TGTTTGC
+>MP662600.1 Sequence 50 from Patent WO2020104782
+ACAAACA
+>MP662598.1 Sequence 48 from Patent WO2020104782
+TGTTTGC
+>MP662585.1 Sequence 35 from Patent WO2020104782
+TCGCCAA
+>MP661365.1 Sequence 78 from Patent WO2020104783
+ACAAACA
+>MP661363.1 Sequence 76 from Patent WO2020104783
+TGTTTGC
+>MP756790.1 Sequence 228 from Patent EP3704239
+TTTTTTT
+>MP865545.1 Sequence 93 from Patent WO2020165907
+TGTTTGY
+>MP865544.1 Sequence 92 from Patent WO2020165907
+TTANTCA
+>MP865543.1 Sequence 91 from Patent WO2020165907
+RTAAACA
+>MP865539.1 Sequence 87 from Patent WO2020165907
+GGGCGGR
+>MP865538.1 Sequence 86 from Patent WO2020165907
+TGANTCA
+>MP650624.1 Sequence 26 from Patent WO2020097409
+CCCCGGC
+>MP862031.1 Sequence 26 from Patent WO2020245377
+TTTTTTT
+>MP862026.1 Sequence 21 from Patent WO2020245377
+GTTGGTG
+>MP862024.1 Sequence 19 from Patent WO2020245377
+CACCAAC
+>MP862020.1 Sequence 15 from Patent WO2020245377
+CAGGAGC
+>MP845099.1 Sequence 247 from Patent EP3740580
+TTTTTTT
+>MP845001.1 Sequence 142 from Patent EP3740580
+TTTTTTT
+>MP943660.1 Sequence 41 from Patent EP3755802
+TTTTTTA
+>MP943643.1 Sequence 24 from Patent EP3755802
+AAGCTTT
+>MP841579.1 Sequence 87 from Patent EP3746090
+TTATTTA
+>pdb|4V9I|AX Chain AX, Crystal structure of thermus thermophilus 70S in complex with tRNAs and mRNA containing a pseudouridine in a stop codon
+NATGNAG
+>pdb|7B7D|1 Chain 1, Yeast 80S ribosome bound to eEF3 and A/A- and P/P-tRNAs
+NTGATTA
+>pdb|7L35|C Chain C, Human DNA Ligase 1 - R771W nicked DNA complex
+NTCGGAC
+>pdb|7L34|C Chain C, Human DNA Ligase 1 - R641L nicked DNA complex
+NTCGGAC
+>pdb|4V7P|AX Chain AX, Recognition of the amber stop codon by release factor RF1.
+AATGTAG
+>pdb|6WJK|C Chain C, Crystal Structure of a Self-Assembling DNA Crystal Scaffold with Rhombohedral Symmetry
+NGCATGA
+>OG159086.1 WO 2020196736-A/16: RNAi molecule
+GAGTCAG
+>OG159078.1 WO 2020196736-A/8: RNAi molecule
+CTGACTC
+>OG159077.1 WO 2020196736-A/7: RNAi molecule
+CTGACTC
+>OG159076.1 WO 2020196736-A/6: RNAi molecule
+CTGACTC
+>OG159075.1 WO 2020196736-A/5: RNAi molecule
+CTGACTC
+>OG159074.1 WO 2020196736-A/4: RNAi molecule
+CTGACTC
+>OG159073.1 WO 2020196736-A/3: RNAi molecule
+CTGACTC
+>OG159072.1 WO 2020196736-A/2: RNAi molecule
+CTGACTC
+>OG159071.1 WO 2020196736-A/1: RNAi molecule
+CNGACNC
+>OG157257.1 JP 2020182407-A/9: Method of Detecting EGFR-Mutant NSCLC
+AGACTCA
+>OG157256.1 JP 2020182407-A/8: Method of Detecting EGFR-Mutant NSCLC
+TGACTCA
+>OG144370.1 JP 2019508051-A/32: CRISPR/Cas-Related Methods and Compositions for Treating Beta Hemoglobinopathies
+NNAGAAW
+>OF010282.1 KR 1020200074248-A/1: METHODS FOR TAGGING DNA-ENCODED LIBRARIES
+GTGCTGC
+>OF006208.1 KR 1020200067190-A/99: COMPOSITIONS AND METHODS FOR GENE EDITING FOR HEMOPHILIA A
+YNYYRAY
+>pdb|6TC3|MRN1 Chain MRN1, Cryo-EM structure of an Escherichia coli ribosome-SpeFL complex stalled in response to L-ornithine (Replicate 1)
+NCCCGTT
+>pdb|6TBV|MRN1 Chain MRN1, Cryo-EM structure of an Escherichia coli ribosome-SpeFL complex stalled in response to L-ornithine (Replicate 2)
+NCCCGTT
+>pdb|6MTB|1 Chain 1, Rabbit 80S ribosome with P- and Z-site tRNAs (unrotated state)
+NAAAGTT
+>pdb|6GQV|AZ Chain AZ, Cryo-EM recosntruction of yeast 80S ribosome in complex with mRNA, tRNA and eEF2 (GMPPCP)
+NAATTTT
+>pdb|7KR4|C Chain C, Human DNA Ligase 1(E346A/E592A) Bound to a nicked DNA substrate control duplex
+NTTCTGC
+>pdb|7KR3|C Chain C, Human DNA Ligase 1(E346A/E592A) Bound to a bulged DNA substrate
+NTTCTGC
+>MD439629.1 JP 2019062898-A/20: RATIONALLY-DESIGNED SINGLE-CHAIN MEGANUCLEASES WITH NON-PALINDROMIC RECOGNITION SEQUENCES
+GGCCGTT
+>MD439628.1 JP 2019062898-A/19: RATIONALLY-DESIGNED SINGLE-CHAIN MEGANUCLEASES WITH NON-PALINDROMIC RECOGNITION SEQUENCES
+AACGGCC
+>MD402867.1 JP 2019030324-A/1: DNA-ENCODED LIBRARIES HAVING ENCODING OLIGONUCLEOTIDE LINKAGES NOT READABLE BY POLYMERASES
+GTGCTGC
+>pdb|6S3H|E Chain E, Crystal structure of helicase Pif1 from Thermus oshimai in complex with ADP-AlF4 and (dT)7ds11bp
+NTTTTTT
+>pdb|6S3H|D Chain D, Crystal structure of helicase Pif1 from Thermus oshimai in complex with ADP-AlF4 and (dT)7ds11bp
+NTTTTTT
+>pdb|7C0J|E Chain E, Crystal structure of chimeric mutant of GH5 in complex with Z-DNA
+TCGCGCG
+>pdb|7C0J|D Chain D, Crystal structure of chimeric mutant of GH5 in complex with Z-DNA
+TCGCGCG
+>pdb|6V6R|A Chain A, Crystal Structure of a Bromine Derivatized Self-Assembling DNA Crystal Scaffold with Rhombohedral Symmetry.
+NGCATGA
+>pdb|6U89|B Chain B, RNA duplex, bound with TNA monomer
+NNNTACA
+>pdb|6U89|A Chain A, RNA duplex, bound with TNA monomer
+NNNTACA
+>pdb|7BPF|B Chain B, Structure of L-threoninol nucleic acid - RNA complex
+GCTGCNG
+>pdb|7BPF|A Chain A, Structure of L-threoninol nucleic acid - RNA complex
+GCTGCNG
+>pdb|7ACS|C Chain C, The SARS-CoV-2 nucleocapsid phosphoprotein N-terminal domain in complex with 7mer dsRNA
+NTCAGTG
+>pdb|7ACS|B Chain B, The SARS-CoV-2 nucleocapsid phosphoprotein N-terminal domain in complex with 7mer dsRNA
+NACTGAC
+>pdb|6SA1|G Chain G, Post catalytic complex of Prim-PolC from Mycobacterium smegmatis with gapped DNA and 3'-dUTP
+CGTGCGN
+>pdb|6SA1|E Chain E, Post catalytic complex of Prim-PolC from Mycobacterium smegmatis with gapped DNA and 3'-dUTP
+NCGAGCG
+>pdb|6SA1|H Chain H, Post catalytic complex of Prim-PolC from Mycobacterium smegmatis with gapped DNA and 3'-dUTP
+CGTGCGN
+>pdb|6SA1|B Chain B, Post catalytic complex of Prim-PolC from Mycobacterium smegmatis with gapped DNA and 3'-dUTP
+NCGAGCG
+>pdb|6SA0|E Chain E, Ternary complex of Prim-PolC from Mycobacterium smegmatis with 2nt gapped DNA and UpNHpp
+NCGAGCG
+>pdb|6SA0|B Chain B, Ternary complex of Prim-PolC from Mycobacterium smegmatis with 2nt gapped DNA and UpNHpp
+NCGAGCG
+>MD401657.1 WO 2020153478-A/9: Artificial microRNA precursors and improved microRNA-expression vectors containing the same
+TGGATTG
+>MD401656.1 WO 2020153478-A/8: Artificial microRNA precursors and improved microRNA-expression vectors containing the same
+TGGACCT
+>MD401653.1 WO 2020153478-A/5: Artificial microRNA precursors and improved microRNA-expression vectors containing the same
+TGGAYYK
+>MD397545.1 WO 2020116537-A/9: RNAi molecule for use in cancer treatment
+GAGTCAG
+>MD397537.1 WO 2020116537-A/1: RNAi molecule for use in cancer treatment
+CTGACTC
+>MD397531.1 WO 2020116536-A/1: Combination for use in cancer treatment
+CTGACTC
+>pdb|2WJ8|t Chain t, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|s Chain s, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|r Chain r, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|q Chain q, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|p Chain p, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|o Chain o, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|n Chain n, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|m Chain m, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|l Chain l, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|k Chain k, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|j Chain j, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|i Chain i, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|h Chain h, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|g Chain g, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|f Chain f, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|e Chain e, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|d Chain d, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|c Chain c, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|b Chain b, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|2WJ8|a Chain a, Respiratory Syncitial Virus RiboNucleoProtein
+NCCCCCC
+>pdb|6F2S|R Chain R, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|T Chain T, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|U Chain U, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|V Chain V, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|N Chain N, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|O Chain O, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|P Chain P, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|Q Chain Q, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|M Chain M, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|6F2S|L Chain L, CryoEM structure of Ageratum Yellow Vein virus (AYVV)
+NAACCAC
+>pdb|5HR9|H Chain H, The crystal structure of Se-AsfvPolX(L52/163M mutant) in complex with 1nt-gap DNA1
+GTTGTCC
+>pdb|5HR9|G Chain G, The crystal structure of Se-AsfvPolX(L52/163M mutant) in complex with 1nt-gap DNA1
+GTTGTCC
+>pdb|5HR9|E Chain E, The crystal structure of Se-AsfvPolX(L52/163M mutant) in complex with 1nt-gap DNA1
+GTTGTCC
+>pdb|5HR9|D Chain D, The crystal structure of Se-AsfvPolX(L52/163M mutant) in complex with 1nt-gap DNA1
+GTTGTCC
+>pdb|5DLO|B Chain B, S. aureus MazF in complex with substrate analogue
+ANACANA
+>pdb|5KEO|D Chain D, Structure Determination of a Self-Assembling DNA Crystal
+NGTCTGC
+>pdb|5D4B|F Chain F, Structural Basis for a New Templated Activity by Terminal Deoxynucleotidyl Transferase: Implications for V(D)J Recombination
+TTTTTGG
+>pdb|5D46|D Chain D, Structural Basis for a New Templated Activity by Terminal Deoxynucleotidyl Transferase: Implications for V(D)J Recombination
+TTTTTGC
+>pdb|5D46|C Chain C, Structural Basis for a New Templated Activity by Terminal Deoxynucleotidyl Transferase: Implications for V(D)J Recombination
+TTTTTGC
+>pdb|5GJB|B Chain B, Zika virus NS3 helicase in complex with ssRNA
+AGATCAA
+>pdb|5CR2|F Chain F, E. coli MazF in complex with single strand DNA substrate analog
+ANACANA
+>pdb|5CR2|E Chain E, E. coli MazF in complex with single strand DNA substrate analog
+ANACANA
+>pdb|5CR2|D Chain D, E. coli MazF in complex with single strand DNA substrate analog
+ANACANA
+>pdb|4QVD|H Chain H, E.coli Hfq in complex with RNA Ads
+AACTAAA
+>pdb|4X2B|B Chain B, K20A RNA dependent RNA polymerase mutant from Foot-and-Mouth disease Virus complexed with an RNA
+NTGGGCC
+>pdb|4WZQ|C Chain C, Mutant K20E of RNA dependent RNA polymerase 3D from Foot-and-Mouth disease Virus complexed with RNA
+TGGGCCC
+>pdb|4WZM|C Chain C, Mutant K18E of RNA dependent RNA polymerase from Foot-and-Mouth Disease Virus complexed with RNA
+TGGGCCC
+>pdb|4CIO|B Chain B, RRM domain from C. elegans SUP-12 bound to GGUGUGC RNA
+GGTGTGC
+>pdb|4CH1|B Chain B, RRM domain from C. elegans SUP-12 bound to GGTGTGC DNA
+GGTGTGC
+>pdb|4PEH|Z Chain Z, Dbr1 in complex with synthetic linear RNA
+CTANCAA
+>pdb|4PEH|Y Chain Y, Dbr1 in complex with synthetic linear RNA
+CTANCAA
+>pdb|4PEH|X Chain X, Dbr1 in complex with synthetic linear RNA
+CTANCAA
+>pdb|4PEH|W Chain W, Dbr1 in complex with synthetic linear RNA
+CTANCAA
+>pdb|4PEH|V Chain V, Dbr1 in complex with synthetic linear RNA
+CTANCAA
+>pdb|4P4P|C Chain C, Crystal structure of Leishmania infantum polymerase beta: Nick complex
+CAGTACT
+>pdb|4N0O|H Chain H, Complex structure of Arterivirus nonstructural protein 10 (helicase) with DNA
+TTTTTTT
+>pdb|4N0O|F Chain F, Complex structure of Arterivirus nonstructural protein 10 (helicase) with DNA
+TTTTTTT
+>pdb|4N0O|D Chain D, Complex structure of Arterivirus nonstructural protein 10 (helicase) with DNA
+TTTTTTT
+>pdb|4N0O|B Chain B, Complex structure of Arterivirus nonstructural protein 10 (helicase) with DNA
+TTTTTTT
+>pdb|4KMF|B Chain B, Crystal structure of Zalpha domain from Carassius auratus PKZ in complex with Z-DNA
+TCGCGCG
+>pdb|4JVY|F Chain F, Structure of the STAR (signal transduction and activation of RNA) domain of GLD-1 bound to RNA
+NTAACAA
+>pdb|4JVY|D Chain D, Structure of the STAR (signal transduction and activation of RNA) domain of GLD-1 bound to RNA
+NTAACAA
+>pdb|4HT9|D Chain D, Crystal structure of E coli Hfq bound to two RNAs
+AAAAAAA
+>pdb|4HT8|K Chain K, Crystal structure of E coli Hfq bound to poly(A) A7
+AAAAAAA
+>pdb|4HT8|I Chain I, Crystal structure of E coli Hfq bound to poly(A) A7
+AAAAAAA
+>pdb|4IQX|B Chain B, Mutant P44S P169S M296I of Foot-and-mouth disease Virus RNA-dependent RNA polymerase
+ATGGGCC
+>pdb|3UXP|D Chain D, Co-crystal Structure of Rat DNA polymerase beta Mutator I260Q: Enzyme-DNA-ddTTP
+NTGTGAG
+>pdb|3UXP|P Chain P, Co-crystal Structure of Rat DNA polymerase beta Mutator I260Q: Enzyme-DNA-ddTTP
+NTGTGAG
+>pdb|3V9Z|D Chain D, Crystal structure of RNase T in complex with a product ssDNA (ACC) with one Mg in the active site
+TTACACC
+>pdb|3V9Z|C Chain C, Crystal structure of RNase T in complex with a product ssDNA (ACC) with one Mg in the active site
+TTACACC
+>pdb|3V9X|H Chain H, Crystal structure of RNase T in complex with a preferred ssDNA (AAA) with two Mg in the active site
+TTATAAA
+>pdb|3V9X|G Chain G, Crystal structure of RNase T in complex with a preferred ssDNA (AAA) with two Mg in the active site
+TTATAAA
+>pdb|3V9X|F Chain F, Crystal structure of RNase T in complex with a preferred ssDNA (AAA) with two Mg in the active site
+TTATAAA
+>pdb|3V9X|E Chain E, Crystal structure of RNase T in complex with a preferred ssDNA (AAA) with two Mg in the active site
+TTATAAA
+>pdb|3V9U|H Chain H, Crystal structure of RNase T in complex with a preferred ssDNA (AAT) with two Mg in the active site
+TTACAAT
+>pdb|3V9U|G Chain G, Crystal structure of RNase T in complex with a preferred ssDNA (AAT) with two Mg in the active site
+TTACAAT
+>pdb|3V9U|F Chain F, Crystal structure of RNase T in complex with a preferred ssDNA (AAT) with two Mg in the active site
+TTACAAT
+>pdb|3V9U|E Chain E, Crystal structure of RNase T in complex with a preferred ssDNA (AAT) with two Mg in the active site
+TTACAAT
+>pdb|3V9S|D Chain D, Crystal structure of RNase T in complex with a product ssDNA (AAC) with one Mg in the active site
+TTACAAC
+>pdb|3V9S|C Chain C, Crystal structure of RNase T in complex with a product ssDNA (AAC) with one Mg in the active site
+TTACAAC
+>pdb|3RAE|G Chain G, Quinolone(Levofloxacin)-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CGTGCAT
+>pdb|3RAE|E Chain E, Quinolone(Levofloxacin)-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CATGAAT
+>pdb|4E7A|P Chain P, Crystal structure of a product state assembly of HCV NS5B genotype 2a JFH-1 isolate with beta hairpin deletion bound to primer-template RNA with a 2',3'-ddC
+CATGGCN
+>pdb|4E7A|T Chain T, Crystal structure of a product state assembly of HCV NS5B genotype 2a JFH-1 isolate with beta hairpin deletion bound to primer-template RNA with a 2',3'-ddC
+CATGGCN
+>pdb|3RAF|G Chain G, Quinazolinedione-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CGTGCAT
+>pdb|3RAF|E Chain E, Quinazolinedione-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CATGAAT
+>pdb|3T5Q|D Chain D, 3A structure of Lassa virus nucleoprotein in complex with ssRNA
+NATCTCA
+>pdb|3PF4|R Chain R, Crystal structure of Bs-CspB in complex with r(GUCUUUA)
+GTCTTTA
+>pdb|3NL0|B Chain B, Mutant P44S M296I of Foot-and-mouth disease Virus RNA-dependent RNA polymerase
+NGGGCCC
+>pdb|3MQY|E Chain E, SgrAI with cleaved DNA and Magnesium bound
+GAGTCCA
+>pdb|3MQY|C Chain C, SgrAI with cleaved DNA and Magnesium bound
+GAGTCCA
+>pdb|3KNA|B Chain B, M296I mutant of foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA
+ATGGGCC
+>pdb|3KMS|B Chain B, G62S mutant of foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA trigonal structure
+ATGGGCC
+>pdb|3KLV|B Chain B, M296I G62S mutant of foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA
+ATGGGCC
+>pdb|3HSB|X Chain X, Crystal structure of YmaH (Hfq) from Bacillus subtilis in complex with an RNA aptamer
+AGAGAGA
+>pdb|2WBS|G Chain G, Crystal structure of the zinc finger domain of Klf4 bound to its target DNA
+GCGCCTC
+>pdb|2WBS|F Chain F, Crystal structure of the zinc finger domain of Klf4 bound to its target DNA
+GAGGCGC
+>pdb|2R7X|Y Chain Y, Crystal Structure of Rotavirus SA11 VP1/RNA (UGUGACC)/GTP complex
+TGTGACC
+>pdb|2R7X|X Chain X, Crystal Structure of Rotavirus SA11 VP1/RNA (UGUGACC)/GTP complex
+TGTGACC
+>pdb|2R7W|X Chain X, Crystal Structure of Rotavirus SA11 VP1/RNA (UGUGACC)/mRNA 5'-CAP (m7GpppG) complex
+TGTGACC
+>pdb|2R7U|X Chain X, Crystal Structure of Rotavirus SA11 VP1/RNA (AAAAGCC) Complex
+AAAANNC
+>pdb|2R7R|X Chain X, Crystal Structure of Rotavirus SA11 VP1/RNA (UGUGACC) complex
+TGTGACC
+>pdb|2R2U|B Chain B, Co(III)bleomycinB2 bithiazole/C-terminal tail domain bound to d(ATTTAGTTAACTAAAT) complexed with MMLV RT catalytic fragment
+ATTTAGT
+>pdb|2R2S|B Chain B, Co(III)bleomycinB2 bound to d(ATTAGTTATAACTAAT) complexed with MMLV RT catalytic fragment
+ATTAGTT
+>pdb|2QHB|F Chain F, Crystal structure of NgTRF complexed with telomeric DNA
+NCCTAAA
+>pdb|2QHB|E Chain E, Crystal structure of NgTRF complexed with telomeric DNA
+NTTAGGG
+>pdb|2QHB|D Chain D, Crystal structure of NgTRF complexed with telomeric DNA
+NCCTAAA
+>pdb|2QHB|C Chain C, Crystal structure of NgTRF complexed with telomeric DNA
+NTTAGGG
+>pdb|2EC0|F Chain F, RNA-dependent RNA polymerase of foot-and-mouth disease virus in complex with a template-primer RNA and ATP
+GGGCCCA
+>pdb|2EC0|C Chain C, RNA-dependent RNA polymerase of foot-and-mouth disease virus in complex with a template-primer RNA and ATP
+GGGCCCA
+>pdb|2E9Z|C Chain C, Foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA, ATP and UTP
+GGGCCCA
+>pdb|2E9T|F Chain F, Foot-and-mouth disease virus RNA-polymerase RNA dependent in complex with a template-primer RNA and 5F-UTP
+GGGCCCN
+>pdb|2E9T|C Chain C, Foot-and-mouth disease virus RNA-polymerase RNA dependent in complex with a template-primer RNA and 5F-UTP
+GGGCCCN
+>pdb|1WWF|B Chain B, NMR Structure Determined for MLV NC Complex with RNA Sequence CCUCCGU
+NCTCCGT
+>pdb|1SFU|D Chain D, Crystal structure of the viral Zalpha domain bound to left-handed Z-DNA
+TCGCGCG
+>pdb|1SFU|C Chain C, Crystal structure of the viral Zalpha domain bound to left-handed Z-DNA
+TCGCGCG
+>pdb|1UVJ|F Chain F, The structural basis for RNA specificity and Ca2 inhibition of an RNA-dependent RNA polymerase phi6p2 with 7nt RNA
+TTTTTCC
+>pdb|1UVJ|E Chain E, The structural basis for RNA specificity and Ca2 inhibition of an RNA-dependent RNA polymerase phi6p2 with 7nt RNA
+TTTTTCC
+>pdb|1UVJ|D Chain D, The structural basis for RNA specificity and Ca2 inhibition of an RNA-dependent RNA polymerase phi6p2 with 7nt RNA
+TTTTTCC
+>pdb|1KQ2|R Chain R, Crystal Structure of an Hfq-RNA Complex
+ATTTTTG
+>pdb|1L2B|D Chain D, MutM (Fpg) DNA End-Product Structure
+NTCTACC
+>pdb|1J75|B Chain B, Crystal Structure of the DNA-Binding Domain Zalpha of DLM-1 Bound to Z-DNA
+TCGCGCG
+>pdb|1HUO|D Chain D, Crystal Structure Of Dna Polymerase Beta Complexed With Dna And Cr-Tmppcp
+NGACGCC
+>pdb|1HUO|P Chain P, Crystal Structure Of Dna Polymerase Beta Complexed With Dna And Cr-Tmppcp
+NGACGCC
+>pdb|1DDL|D Chain D, Desmodium Yellow Mottle Tymovirus
+NTTTTTT
+>pdb|2BPG|D Chain D, Structures Of Ternary Complexes Of Rat Dna Polymerase Beta, A Dna Template-Primer, And Ddctp
+CGGCGCC
+>pdb|2BPG|P Chain P, Structures Of Ternary Complexes Of Rat Dna Polymerase Beta, A Dna Template-Primer, And Ddctp
+CGGCGCC
+>pdb|2BPF|P Chain P, Structures Of Ternary Complexes Of Rat Dna Polymerase Beta, A Dna Template-Primer, And Ddctp
+CGGCGCC
+>pdb|1DNK|B Chain B, The X-Ray Structure Of The Dnase I-D(Ggtatacc)2 Complex At 2.3 Angstroms Resolution
+GGTATAC
+>pdb|3J0P|d Chain d, Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 10.6A cryo-em map: rotated PRE state 1
+NGAGGAA
+>pdb|3J0O|d Chain d, Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 9A cryo-EM map: classic PRE state 2
+NGAGGAA
+>pdb|3J0L|d Chain d, Core of mammalian 80S pre-ribosome in complex with tRNAs fitted to a 9.8A cryo-EM map: classic PRE state 1
+NGAGGAA
+>pdb|6W13|B Chain B, Human 8-oxoguanine glycosylase interrogating fully intrahelical oxoG lesion DNA
+NANGTCT
+>pdb|6UEF|A Chain A, Crystal Structure of a Self-Assembling DNA Scaffold Containing Sequence Modifications to Attempt to Disrupt Crystal Contacts in a Rhombohedral Lattice.
+NGCATGA
+>pdb|6UDN|A Chain A, Crystal Structure of a Self-Assembling DNA Scaffold Containing TA Sticky Ends and Rhombohedral Symmetry
+NGCATGA
+>pdb|6UAL|C Chain C, A Self-Assembling DNA Crystal Scaffold with Cavities Containing 3 Helical Turns per Edge
+NGCATGA
+>pdb|6U40|A Chain A, Crystal Structure of a Self-Assembling DNA Crystal Scaffold with Rhombohedral Symmetry
+NGCATGA
+>pdb|6PZQ|J Chain J, Structure of the human respiratory syncytial virus M2-1 protein in complex with a short positive-sense gene-end RNA
+NGTTAAT
+>pdb|6PZQ|I Chain I, Structure of the human respiratory syncytial virus M2-1 protein in complex with a short positive-sense gene-end RNA
+AGTTAAT
+>pdb|6S48|I Chain I, AvaII RESTRICTION ENDONUCLEASE IN COMPLEX WITH PARTIALLY CLEAVED dsDNA
+NACCATC
+>pdb|6S48|G Chain G, AvaII RESTRICTION ENDONUCLEASE IN COMPLEX WITH PARTIALLY CLEAVED dsDNA
+NTCCTAC
+>pdb|6S48|E Chain E, AvaII RESTRICTION ENDONUCLEASE IN COMPLEX WITH PARTIALLY CLEAVED dsDNA
+NACCATC
+>pdb|6KN4|D Chain D, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 ADRIAMYCIN (DM2) MOLECULES
+TTAGGGT
+>pdb|6KN4|C Chain C, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 ADRIAMYCIN (DM2) MOLECULES
+TTAGGGT
+>pdb|6KN4|B Chain B, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 ADRIAMYCIN (DM2) MOLECULES
+TTAGGGT
+>pdb|6KN4|A Chain A, HUMAN PARALLEL STRANDED 7-MER G-QUADRUPLEX COMPLEXED WITH 2 ADRIAMYCIN (DM2) MOLECULES
+TTAGGGT
+>pdb|6KQH|I Chain I, Thermus thermophilus initial transcription complex comprising sigma A and 5'-OH RNA of 7 nt
+CCCTCGA
+>pdb|6KOO|I Chain I, Mycobacterium tuberculosis initial transcription complex comprising sigma H and 5'-OH RNA of 7 nt
+CCCTCGA
+>pdb|6QHI|C Chain C, TINA-conjugated antiparallel DNA triplex
+AGGAGGA
+>pdb|6QHI|B Chain B, TINA-conjugated antiparallel DNA triplex
+TCCTCCT
+>pdb|6L1W|C Chain C, Zinc-finger Antiviral Protein (ZAP) bound to RNA
+CGTCGTT
+>pdb|5K8H|A Chain A, The X-ray crystal structure of a parallel poly(rA) double helix generated by rA7 at acidic pH
+AAAAAAA
+>pdb|6Q1V|C Chain C, Human DNA Ligase 1 (E592R) Bound to an Adenylated, hydroxyl terminated DNA nick
+NTCGGAC
+>pdb|6P0E|C Chain C, Human DNA Ligase 1 (E346A,E592A) bound to adenylated DNA containing an 8-oxo guanine:adenine base-pair
+NTCGGAC
+>pdb|6P0D|C Chain C, Human DNA Ligase 1 (E346A/E592A) Bound to an Adenylated, hydroxyl terminated DNA nick
+NTCGGAC
+>pdb|6P0C|C Chain C, Human DNA Ligase 1 Bound to an Adenylated, hydroxyl terminated DNA nick in EDTA
+NTCGGAC
+>pdb|6P0B|C Chain C, Human DNA Ligase 1 (E346A/E592A) Bound to an Adenylated, dideoxy Terminated DNA nick with 200 mM Mg2+
+NTCGGAC
+>pdb|6P0A|C Chain C, Human DNA Ligase 1 Bound to an Adenylated, dideoxy Terminated DNA nick with 2 mM Mg2+
+NTCGGAC
+>pdb|6P09|C Chain C, Human DNA Ligase 1 Bound to an Adenylated, dideoxy Terminated DNA nick with 200 mM Mg2+
+NTCGGAC
+>pdb|2VON|D Chain D, Crystal structure of N-terminal domains of Human La protein complexed with RNA oligomer AUAAUUU
+ATAATTT
+>pdb|2VON|C Chain C, Crystal structure of N-terminal domains of Human La protein complexed with RNA oligomer AUAAUUU
+ATAATTT
+>pdb|6RNL|D Chain D, L-[Ru(TAP)2(dppz)]2+ bound to the G-quadruplex forming sequence d(TAGGGTT)
+TAGGGTT
+>pdb|6RNL|C Chain C, L-[Ru(TAP)2(dppz)]2+ bound to the G-quadruplex forming sequence d(TAGGGTT)
+TAGGGTT
+>pdb|6RNL|B Chain B, L-[Ru(TAP)2(dppz)]2+ bound to the G-quadruplex forming sequence d(TAGGGTT)
+TAGGGTT
+>pdb|6RNL|A Chain A, L-[Ru(TAP)2(dppz)]2+ bound to the G-quadruplex forming sequence d(TAGGGTT)
+TAGGGTT
+>pdb|6J80|C Chain C, Human mitochondrial Oligoribonuclease in complex with poly-dT DNA
+NTTTTTT
+>pdb|6BKG|D Chain D, Human LigIV catalytic domain with bound DNA-adenylate intermediate in closed conformation
+NTCGGAC
+>pdb|6NUH|C Chain C, Non-covalent DNA-protein complex between E. coli YedK and ssDNA containing an abasic site analog
+GTCNGGA
+>pdb|6NUA|D Chain D, DNA-protein crosslink between E. coli YedK and ssDNA containing an abasic site
+GTCNGGA
+>pdb|6NUA|C Chain C, DNA-protein crosslink between E. coli YedK and ssDNA containing an abasic site
+GTCNGGA
+>pdb|6GO7|J Chain J, TdT chimera (Loop1 of pol mu) - full DNA synapsis complex
+TTTTTGC
+>pdb|6GO7|I Chain I, TdT chimera (Loop1 of pol mu) - full DNA synapsis complex
+TTTTTGC
+>pdb|6GO7|H Chain H, TdT chimera (Loop1 of pol mu) - full DNA synapsis complex
+TTTTTGC
+>pdb|6GO7|E Chain E, TdT chimera (Loop1 of pol mu) - full DNA synapsis complex
+TTTTTGC
+>pdb|6R9J|B Chain B, Structure of Saccharomyces cerevisiae apo Pan2 pseudoubiquitin hydrolase-RNA exonuclease (UCH-Exo) module in complex with A7 RNA
+AAAAAAA
+>pdb|5ZX2|I Chain I, Mycobacterium tuberculosis RNA polymerase transcription initiation complex with ECF sigma factor sigma H and 7nt RNA
+CCCTCGA
+>pdb|5ZOG|B Chain B, Crystal Structure of R192F hFen1 in complex with DNA
+CCCGTCC
+>pdb|6HV9|J Chain J, S. cerevisiae CMG-Pol epsilon-DNA
+NTTTTTT
+>pdb|5YTT|B Chain B, Crystal structure of YB1 cold-shock domain in complex with UCAUGU
+NCATGTT
+>pdb|6GE1|D Chain D, Solution structure of the r(UGGUGGU)4 RNA quadruplex
+TGGTGGT
+>pdb|6GE1|C Chain C, Solution structure of the r(UGGUGGU)4 RNA quadruplex
+TGGTGGT
+>pdb|6GE1|B Chain B, Solution structure of the r(UGGUGGU)4 RNA quadruplex
+TGGTGGT
+>pdb|6GE1|A Chain A, Solution structure of the r(UGGUGGU)4 RNA quadruplex
+TGGTGGT
+>pdb|6DX0|D Chain D, Hermes transposase deletion dimer complex with (A/T) DNA
+GCGTGAA
+>pdb|6DWZ|H Chain H, Hermes transposase deletion dimer complex with (C/G) DNA
+GCGTGAC
+>pdb|6DWZ|D Chain D, Hermes transposase deletion dimer complex with (C/G) DNA
+GCGTGAC
+>pdb|6DWW|D Chain D, Hermes transposase deletion dimer complex with (A/T) DNA and Mn2+
+GCGTGAA
+>pdb|6BKF|D Chain D, Lysyl-adenylate form of human LigIV catalytic domain with bound DNA substrate in open conformation
+NTCGGAC
+>pdb|5YWV|D Chain D, Crystal structure of TREX1 in complex with a inosine contained ssDNA
+TTATANG
+>pdb|5YWV|C Chain C, Crystal structure of TREX1 in complex with a inosine contained ssDNA
+TTATANG
+>pdb|5YTZ|B Chain B, Crystal structure of echinomycin-d(ACGTCGT)2 complex
+NCGTCGN
+>pdb|5YTZ|A Chain A, Crystal structure of echinomycin-d(ACGTCGT)2 complex
+NCGTCGN
+>pdb|5YTY|B Chain B, Crystal structure of echinomycin-d(ACGACGT/ACGTCGT) complex
+NCGTCGT
+>pdb|5YTY|A Chain A, Crystal structure of echinomycin-d(ACGACGT/ACGTCGT) complex
+NCGACGT
+>pdb|6FPQ|B Chain B, Structure of S. pombe Mmi1 in complex with 7-mer RNA
+TTAAACC
+>pdb|2MAP|B Chain B, Solution structure of the complex formed by the region 2 of E. coli sigmaE and its cognate -10 promoter element non template strand TGTCAAA.
+TGTCAAA
+>pdb|5O6E|D Chain D, Structure of ScPif1 in complex with TTTGGGTT and ADP-AlF4
+TTTGGTT
+>pdb|5O6E|C Chain C, Structure of ScPif1 in complex with TTTGGGTT and ADP-AlF4
+TTTGGTT
+>pdb|5U0Q|D Chain D, RNA-DNA heptamer duplex with one 2'-5'-linkage
+NNNNNTN
+>pdb|5U0Q|C Chain C, RNA-DNA heptamer duplex with one 2'-5'-linkage
+TAGCTCC
+>pdb|5U0Q|B Chain B, RNA-DNA heptamer duplex with one 2'-5'-linkage
+NNNNNTN
+>pdb|5U0Q|A Chain A, RNA-DNA heptamer duplex with one 2'-5'-linkage
+TAGCTCC
+>pdb|5TKO|D Chain D, RNA heptamer duplex with one 2'-5'-linkage
+GGAGCTA
+>pdb|5TKO|C Chain C, RNA heptamer duplex with one 2'-5'-linkage
+TAGCTCC
+>pdb|5TKO|B Chain B, RNA heptamer duplex with one 2'-5'-linkage
+GGAGCTA
+>pdb|5TKO|A Chain A, RNA heptamer duplex with one 2'-5'-linkage
+TAGCTCC
+>pdb|5VY7|D Chain D, A self-assembling L-form DNA crystal lattice
+NNNNNNN
+>pdb|5VY6|D Chain D, A self-assembling D-form DNA crystal lattice
+NGTCTGC
+>pdb|5MPG|B Chain B, Solution NMR structure of hnRNP A1 RRM1 in complex with 5'-UUAGGUC-3' RNA
+TTAGGTC
+>pdb|5UM9|F Chain F, Flap endonuclease 1 (FEN1) D86N with 5'-flap substrate DNA and Sm3+
+ACCGTCC
+>pdb|5KSE|F Chain F, Flap endonuclease 1 (FEN1) R100A with 5'-flap substrate DNA and Sm3+
+ACCGTCC
+>pdb|5K97|F Chain F, Flap endonuclease 1 (FEN1) D233N with cleaved product fragment and Sm3+
+ACCGTCC
+>pdb|5ULX|P Chain P, Structure of human DNA polymerase iota bound to template 1-methyl-deoxyadenosine crystallized in the presence of dCTP
+AGGACCN
+>pdb|5ULW|P Chain P, Structure of human DNA polymerase iota bound to template 1-methyl-deoxyadenosine
+AGGACCN
+>pdb|2N8M|B Chain B, Zipcode-binding-protein-1 KH3(DD)KH4 domains in complex with the KH4 RNA target
+NCGGACT
+>pdb|5TD5|C Chain C, Crystal Structure of Human APOBEC3B variant complexed with ssDNA
+TTTTCAT
+>pdb|5J02|B Chain B, Structure of the lariat form of a chimeric derivative of the Oceanobacillus iheyensis group II intron in the presence of NH4+, MG2+ and an inactive 5' exon.
+CTGTTAN
+>pdb|5HBW|B Chain B, RNA primer-template complex with 2-methylimidazole-activated monomer analogue
+NNNTACA
+>pdb|5HBW|A Chain A, RNA primer-template complex with 2-methylimidazole-activated monomer analogue
+NNNTACA
+>pdb|5DHB|D Chain D, Cooperativity and Downstream Binding in RNA Replication
+NNNTACA
+>pdb|5DHB|C Chain C, Cooperativity and Downstream Binding in RNA Replication
+NNNTACA
+>pdb|5DHB|B Chain B, Cooperativity and Downstream Binding in RNA Replication
+NNNTACA
+>pdb|5DHB|A Chain A, Cooperativity and Downstream Binding in RNA Replication
+NNNTACA
+>pdb|5H1L|B Chain B, Crystal structure of WD40 repeat domains of Gemin5 in complex with 7-nt U4 snRNA fragment
+ATTTTTG
+>pdb|5EN1|B Chain B, Crystal structure of hnRNPA2B1 in complex with RNA
+AGGACTG
+>pdb|4Z53|G Chain G, Quinolone(Trovafloxacin)-DNA cleavage complex of topoisomerase IV from S. pneumoniae
+CGTGCAT
+>pdb|4Z53|E Chain E, Quinolone(Trovafloxacin)-DNA cleavage complex of topoisomerase IV from S. pneumoniae
+CATGAAT
+>pdb|4Z4Q|G Chain G, Quinazolinedione(PD 0305970)-DNA cleavage complex of topoisomerase IV from S. pneumoniae
+TGTGGAT
+>pdb|4Z4Q|E Chain E, Quinazolinedione(PD 0305970)-DNA cleavage complex of topoisomerase IV from S. pneumoniae
+GTAATAC
+>pdb|4Z3O|G Chain G, Quinolone(Moxifloxacin)-DNA cleavage complex of topoisomerase IV from S. pneumoniae
+CGTGCAT
+>pdb|4Z3O|E Chain E, Quinolone(Moxifloxacin)-DNA cleavage complex of topoisomerase IV from S. pneumoniae
+CATGAAT
+>pdb|5KT7|P Chain P, Teranry complex of human DNA polymerase iota(1-445) inserting dCMPNPP opposite template G in the presence of Mn2+
+NGGACCC
+>pdb|5KT6|P Chain P, Teranry complex of human DNA polymerase iota(1-445) inserting dCMPNPP opposite template G in the presence of Mg2+
+NGGACCC
+>pdb|5KT5|P Chain P, Teranry complex of human DNA polymerase iota R96G inserting dCMPNPP opposite template G in the presence of Mn2+
+NGGACCC
+>pdb|5KT4|P Chain P, Teranry complex of human DNA polymerase iota R96G inserting dCMPNPP opposite template G in the presence of Mg2+
+NGGACCC
+>pdb|5KT3|P Chain P, Teranry complex of human DNA polymerase iota(26-445) inserting dCMPNPP opposite template G in the presence of Mn2+
+NGGACCC
+>pdb|5KT2|P Chain P, Teranry complex of human DNA polymerase iota(26-445) inserting dCMPNPP opposite template G in the presence of Mg2+
+NGGACCC
+>pdb|5IIL|P Chain P, Crystal structure of the post-catalytic nick complex of DNA polymerase lambda with a templating 8-oxo-dG and incorporated dA
+CAGTAAT
+>pdb|5IIK|P Chain P, Crystal structure of the post-catalytic nick complex of DNA polymerase lambda with a templating 8-oxo-dG and incorporated dC
+CAGTACT
+>pdb|5KEK|D Chain D, Structure Determination of a Self-Assembling DNA Crystal
+NGTCTGC
+>pdb|5CHZ|C Chain C, Structure of wild-type human MBD4 bound to a G:T mismatch
+CCAGCGT
+>pdb|5DNO|B Chain B, Crystal structure of Mmi1 YTH domain complex with RNA
+CTTAAAC
+>pdb|5E18|I Chain I, T. thermophilus transcription initiation complex having a YYY discriminator sequence and a nontemplate-strand length corresponding to TSS selection at position 8 (RPo-CCC-8)
+CCCTCGA
+>pdb|5E17|I Chain I, T. thermophilus transcription initiation complex having a RRR discriminator sequence and a nontemplate-strand length corresponding to TSS selection at position 7 (RPo-GGG-7)
+CCCTCGA
+>pdb|5FGP|B Chain B, Crystal structure of D. melanogaster Pur-alpha repeat I-II in complex with DNA.
+GCGGCGG
+>pdb|4XWW|E Chain E, Crystal structure of RNase J complexed with RNA
+TTTTTTT
+>pdb|4XWW|D Chain D, Crystal structure of RNase J complexed with RNA
+TTTTTTT
+>pdb|4X5V|P Chain P, Crystal structure of the post-catalytic nick complex of DNA polymerase lambda with a templating A and incorporated 8-oxo-dGMP
+CAGTACN
+>pdb|4YOY|F Chain F, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dT and Mg2+ ion
+NTTTTTT
+>pdb|4YOY|D Chain D, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dT and Mg2+ ion
+NTTTTTT
+>pdb|4YOY|B Chain B, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dT and Mg2+ ion
+NTTTTTT
+>pdb|4YOX|F Chain F, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dT
+NTTTTTT
+>pdb|4YOX|D Chain D, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dT
+NTTTTTT
+>pdb|4YOX|B Chain B, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dT
+NTTTTTT
+>pdb|4YOW|F Chain F, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dC
+NCCCCCC
+>pdb|4YOW|D Chain D, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dC
+NCCCCCC
+>pdb|4YOW|B Chain B, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dC
+NCCCCCC
+>pdb|4YOV|F Chain F, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dA
+NAAAAAA
+>pdb|4YOV|D Chain D, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dA
+NAAAAAA
+>pdb|4YOV|B Chain B, Crystal structure of a trimeric exonuclease PhoExo I from Pyrococcus horikoshii OT3 in complex with poly-dA
+NAAAAAA
+>pdb|4QZH|T Chain T, Mouse Tdt, F401A mutant, in complex with a DSB substrate, C-T base pair
+TTTTTGT
+>pdb|4QZG|T Chain T, Mouse Tdt, F401A mutant, in complex with a DSB substrate, C-C base pair
+TTTTTGC
+>pdb|4QZF|T Chain T, Mouse Tdt, F401A mutant, in complex with a DSB substrate, C-A base pair
+TTTTTGA
+>pdb|4QZD|T Chain T, Mouse Tdt, F405A mutant, in complex with a DSB substrate, C-C base pair
+TTTTTGC
+>pdb|4QZC|T Chain T, Mouse Tdt, F405A mutant, in complex with a DSB substrate, C-G base pair
+TTTTTGG
+>pdb|4QZB|T Chain T, Mouse Tdt in complex with a DSB substrate, C-T base pair
+TTTTTGT
+>pdb|4QZA|T Chain T, Mouse Tdt in complex with a DSB substrate, C-C base pair
+TTTTTGC
+>pdb|4QZ9|T Chain T, Mouse Tdt in complex with a DSB substrate, C-A base pair
+TTTTTGA
+>pdb|4QZ8|T Chain T, Mouse Tdt in complex with a DSB substrate, C-G base pair
+TTTTTGG
+>pdb|4QVC|G Chain G, E.coli Hfq in complex with RNA Aus
+ATAACTA
+>pdb|2MXY|B Chain B, Solution structure of hnRNP C RRM in complex with 5'-AUUUUUC-3' RNA
+ATTTTTC
+>pdb|2MS6|D Chain D, Human Telomeric G-quadruplex DNA sequence (TTAGGGT)4 complexed with Flavonoid Quercetin
+TTAGGGT
+>pdb|2MS6|C Chain C, Human Telomeric G-quadruplex DNA sequence (TTAGGGT)4 complexed with Flavonoid Quercetin
+TTAGGGT
+>pdb|2MS6|B Chain B, Human Telomeric G-quadruplex DNA sequence (TTAGGGT)4 complexed with Flavonoid Quercetin
+TTAGGGT
+>pdb|2MS6|A Chain A, Human Telomeric G-quadruplex DNA sequence (TTAGGGT)4 complexed with Flavonoid Quercetin
+TTAGGGT
+>pdb|4TYW|B Chain B, DEAD-box helicase Mss116 bound to ssRNA and ADP-BeF
+NAAAAAA
+>pdb|4KPF|G Chain G, Novel fluoroquinolones in complex with topoisomerase IV from S. pneumoniae and E-site G-gate
+CGTGCAT
+>pdb|4KPF|E Chain E, Novel fluoroquinolones in complex with topoisomerase IV from S. pneumoniae and E-site G-gate
+CATGAAT
+>pdb|4KPE|G Chain G, Novel fluoroquinolones in complex with topoisomerase IV from S. pneumoniae and E-site G-gate
+CGTGCAT
+>pdb|4KPE|E Chain E, Novel fluoroquinolones in complex with topoisomerase IV from S. pneumoniae and E-site G-gate
+CATGAAT
+>pdb|4KOE|G Chain G, Quinolone(Trovafloxacin)-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CGTGCAT
+>pdb|4KOE|E Chain E, Quinolone(Trovafloxacin)-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CATGAAT
+>pdb|4LVM|D Chain D, MobM Relaxase Domain (MOBV; Mob_Pre) bound to plasmid pMV158 oriT DNA (23nt). Mn-bound crystal structure at pH 6.5
+ACTTTAT
+>pdb|4LVM|B Chain B, MobM Relaxase Domain (MOBV; Mob_Pre) bound to plasmid pMV158 oriT DNA (23nt). Mn-bound crystal structure at pH 6.5
+ACTTTAT
+>pdb|4LVK|B Chain B, MobM Relaxase Domain (MOBV; Mob_Pre) bound to plasmid pMV158 oriT DNA (22nt+3'Phosphate). Mn-bound crystal structure at pH 4.6
+ACTTTAT
+>pdb|4LVJ|B Chain B, MobM Relaxase Domain (MOBV; Mob_Pre) bound to plasmid pMV158 oriT DNA (22nt). Mn-bound crystal structure at pH 5.5
+ACTTTAT
+>pdb|4LVI|B Chain B, MobM Relaxase Domain (MOBV; Mob_Pre) bound to plasmid pMV158 oriT DNA (22nt). Mn-bound crystal structure at pH 4.6
+ACTTTAT
+>pdb|4U8T|T Chain T, Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA
+AGGNCAT
+>pdb|4U8T|S Chain S, Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA
+AGGNCAT
+>pdb|4U8T|R Chain R, Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA
+AGGNCAT
+>pdb|4U8T|Q Chain Q, Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA
+AGGNCAT
+>pdb|4U8T|P Chain P, Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA
+AGGNCAT
+>pdb|4U8T|O Chain O, Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA
+AGGNCAT
+>pdb|4U38|H Chain H, RNA duplex containing UU mispair
+GGTGCTA
+>pdb|4U38|G Chain G, RNA duplex containing UU mispair
+TAGCTCC
+>pdb|4U38|F Chain F, RNA duplex containing UU mispair
+GGTGCTA
+>pdb|4U38|E Chain E, RNA duplex containing UU mispair
+TAGCTCC
+>pdb|4U38|D Chain D, RNA duplex containing UU mispair
+GGTGCTA
+>pdb|4U38|C Chain C, RNA duplex containing UU mispair
+TAGCTCC
+>pdb|4U38|B Chain B, RNA duplex containing UU mispair
+GGTGCTA
+>pdb|4U38|A Chain A, RNA duplex containing UU mispair
+TAGCTCC
+>pdb|4U37|B Chain B, Native 7mer-RNA duplex
+GGAGCTA
+>pdb|4U37|A Chain A, Native 7mer-RNA duplex
+TAGCTCC
+>pdb|4U35|B Chain B, Crystal Structures of RNA Duplexes Containing 2-thio-Uridine
+GGTGCTA
+>pdb|4U35|A Chain A, Crystal Structures of RNA Duplexes Containing 2-thio-Uridine
+TAGCNCC
+>pdb|4U34|B Chain B, Crystal Structures of RNA Duplexes Containing 2-thio-Uridine
+GGAGCTA
+>pdb|4U34|A Chain A, Crystal Structures of RNA Duplexes Containing 2-thio-Uridine
+TAGCNCC
+>pdb|2M1V|B Chain B, NMR solution structure of the d3'-hairpin from the Sc.ai5gamma group II intron including the EBS1:dIBS1 RNA:DNA hybrid
+CAGTGTC
+>pdb|4OAV|C Chain C, Complete human RNase L in complex with 2-5A (5'-ppp heptamer), AMPPCP and RNA substrate.
+NNAAAAN
+>pdb|4OAV|A Chain A, Complete human RNase L in complex with 2-5A (5'-ppp heptamer), AMPPCP and RNA substrate.
+NNAAAAN
+>pdb|4LUP|D Chain D, Crystal structure of the complex formed by region of E. coli sigmaE bound to its -10 element non template strand
+TGTCAAA
+>pdb|4LUP|B Chain B, Crystal structure of the complex formed by region of E. coli sigmaE bound to its -10 element non template strand
+NGTCAAA
+>pdb|2M23|B Chain B, NMR solution structure of the d3'-hairpin of the group II intron Sc.ai5gamma including EBS1 bound to IBS1
+CAGTGTC
+>pdb|4B8D|B Chain B, TENSEGRITY TRIANGLE FROM ENZYMATICALLY MANUFACTURED DNA
+NCGTACA
+>pdb|4KA4|H Chain H, Crystal structure of a proteolytically defined Zbeta domain of human DAI (ZBP1, DLM-1)
+TCGCGCG
+>pdb|4KA4|G Chain G, Crystal structure of a proteolytically defined Zbeta domain of human DAI (ZBP1, DLM-1)
+TCGCGCG
+>pdb|4KA4|F Chain F, Crystal structure of a proteolytically defined Zbeta domain of human DAI (ZBP1, DLM-1)
+TCGCGCG
+>pdb|4KA4|C Chain C, Crystal structure of a proteolytically defined Zbeta domain of human DAI (ZBP1, DLM-1)
+TCGCGCG
+>pdb|4B20|F Chain F, Structural basis of DNA loop recognition by Endonuclease V
+GCGACAG
+>pdb|4B20|C Chain C, Structural basis of DNA loop recognition by Endonuclease V
+GCGACAG
+>pdb|3VAK|E Chain E, Structure of U2AF65 variant with BrU5 DNA
+NNNNNNN
+>pdb|3VAK|P Chain P, Structure of U2AF65 variant with BrU5 DNA
+NNNNNNN
+>pdb|2M1O|B Chain B, ID3 stem
+NGCACCC
+>pdb|2M1O|A Chain A, ID3 stem
+NGGTGTA
+>pdb|4EYI|P Chain P, Human DNA polymerase iota incorporating dATP opposite N-(deoxyguanosin-8-yl)-1-aminopyrene lesion
+NGGACCC
+>pdb|4EYH|P Chain P, Human DNA polymerase iota incorporating dCTP opposite N-(deoxyguanosin-8-yl)-1-aminopyrene lesion
+NGGACCC
+>pdb|4A76|H Chain H, The Lin28b Cold shock domain in complex with heptathymidine
+TTTTTTT
+>pdb|4A76|F Chain F, The Lin28b Cold shock domain in complex with heptathymidine
+NTTTTTT
+>pdb|4A76|D Chain D, The Lin28b Cold shock domain in complex with heptathymidine
+TTTTTTT
+>pdb|4A76|B Chain B, The Lin28b Cold shock domain in complex with heptathymidine
+TTTTTTT
+>pdb|3VNV|G Chain G, Complex structure of viral RNA polymerase II
+CCCTACC
+>pdb|4EBE|P Chain P, Conformationally Restrained North-methanocarba-2'-deoxyadenosine Corrects the Error-Prone Nature of Human DNA Polymerase Iota
+NGGACCN
+>pdb|4EBD|P Chain P, Conformationally Restrained North-methanocarba-2'-deoxyadenosine Corrects the Error-Prone Nature of Human DNA Polymerase Iota
+NGGACCN
+>pdb|4EBC|P Chain P, Conformationally Restrained North-methanocarba-2'-deoxyadenosine Corrects the Error-Prone Nature of Human DNA Polymerase Iota
+NGGACCN
+>pdb|3T86|A Chain A, d(GCATGCT) + calcium
+GCATGCT
+>pdb|4F2X|D Chain D, Structure of 3'-Fluoro Cyclohexenyl Nucleic Acid Heptamer
+CGCACGC
+>pdb|4F2X|C Chain C, Structure of 3'-Fluoro Cyclohexenyl Nucleic Acid Heptamer
+GCGNGCG
+>pdb|4F2X|B Chain B, Structure of 3'-Fluoro Cyclohexenyl Nucleic Acid Heptamer
+CGCACGC
+>pdb|4F2X|A Chain A, Structure of 3'-Fluoro Cyclohexenyl Nucleic Acid Heptamer
+GCGNGCG
+>pdb|3UQ2|P Chain P, Crystal structure of the post-catalytic product complex of polymerase lambda with an rCMP inserted opposite a templating G and dAMP inserted opposite a templating T at the primer terminus.
+CAGTANA
+>pdb|3UQ0|P Chain P, Crystal structure of the post-catalytic product complex of polymerase lambda with an rAMP at the primer terminus.
+CAGTACN
+>pdb|3RAD|G Chain G, Quinolone(Clinafloxacin)-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CGTGCAT
+>pdb|3RAD|E Chain E, Quinolone(Clinafloxacin)-DNA cleavage complex of type IV topoisomerase from S. pneumoniae
+CATGAAT
+>pdb|3AU6|P Chain P, DNA polymerase X from Thermus thermophilus HB8 ternary complex with primer/template DNA and ddGTP
+CAGTATN
+>pdb|3AVU|G Chain G, Structure of viral RNA polymerase complex 2
+GGGTCCA
+>pdb|3AVT|T Chain T, Structure of viral RNA polymerase complex 1
+ATCGCCA
+>pdb|4A3L|P Chain P, RNA Polymerase II initial transcribing complex with a 7nt DNA-RNA hybrid and soaked with AMPCPP
+NCCAGGA
+>pdb|4A3K|P Chain P, RNA Polymerase II initial transcribing complex with a 7nt DNA-RNA hybrid
+NCCAGGA
+>pdb|2LI8|B Chain B, The solution structure of the Lin28-ZnF domains bound to AGGAGAU of pre-let-7 miRNA
+AGGAGAT
+>pdb|3NAO|F Chain F, A DNA Crystal Designed to Contain Two Molecules per Asymmetric Unit Cell
+NCACGCA
+>pdb|3NAO|B Chain B, A DNA Crystal Designed to Contain Two Molecules per Asymmetric Unit Cell
+NCGTACA
+>pdb|3R1L|E Chain E, Crystal structure of the Class I ligase ribozyme-substrate preligation complex, C47U mutant, Mg2+ bound
+TCCAGTA
+>pdb|3R1L|B Chain B, Crystal structure of the Class I ligase ribozyme-substrate preligation complex, C47U mutant, Mg2+ bound
+TCCAGTA
+>pdb|3R1H|E Chain E, Crystal structure of the Class I ligase ribozyme-substrate preligation complex, C47U mutant, Ca2+ bound
+TCCAGTA
+>pdb|3R1H|B Chain B, Crystal structure of the Class I ligase ribozyme-substrate preligation complex, C47U mutant, Ca2+ bound
+TCCAGTA
+>pdb|3S15|R Chain R, RNA Polymerase II Initiation Complex with a 7-nt RNA
+CGAGAGG
+>pdb|2XSL|D Chain D, The crystal structure of a Thermus thermophilus tRNAGly acceptor stem microhelix at 1.6 Angstroem resolution
+CTCCCGC
+>pdb|2XSL|C Chain C, The crystal structure of a Thermus thermophilus tRNAGly acceptor stem microhelix at 1.6 Angstroem resolution
+GCGGGAG
+>pdb|2XSL|B Chain B, The crystal structure of a Thermus thermophilus tRNAGly acceptor stem microhelix at 1.6 Angstroem resolution
+CTCCCGC
+>pdb|2XSL|A Chain A, The crystal structure of a Thermus thermophilus tRNAGly acceptor stem microhelix at 1.6 Angstroem resolution
+GCGGGAG
+>pdb|3QRP|C Chain C, Structure of Thermus Thermophilus Cse3 bound to an RNA representing a product mimic complex
+NGTGGGG
+>pdb|3Q8M|I Chain I, Crystal Structure of Human Flap Endonuclease FEN1 (D181A) in complex with substrate 5'-flap DNA and K+
+ACCGTCC
+>pdb|3Q8M|F Chain F, Crystal Structure of Human Flap Endonuclease FEN1 (D181A) in complex with substrate 5'-flap DNA and K+
+ACCGTCC
+>pdb|3Q8L|F Chain F, Crystal Structure of Human Flap Endonuclease FEN1 (WT) in complex with substrate 5'-flap DNA, SM3+, and K+
+ACCGTCC
+>pdb|3Q8K|F Chain F, Crystal Structure of Human Flap Endonuclease FEN1 (WT) in complex with product 5'-flap DNA, SM3+, and K+
+ACCGTCC
+>pdb|2XZO|D Chain D, Upf1 helicase - RNA complex
+NTTTTTT
+>pdb|3Q1R|D Chain D, Crystal structure of a bacterial RNase P holoenzyme in complex with TRNA and in the presence of 5' leader
+AAGGCGT
+>pdb|3Q8S|P Chain P, Human DNA polymerase iota incorporating dTTP opposite 8-oxo-guanine
+NGGACCC
+>pdb|3Q8R|P Chain P, Human DNA polymerase iota incorporating dGTP opposite 8-oxo-guanine
+NGGACCC
+>pdb|3Q8Q|P Chain P, Human DNA polymerase iota incorporating dATP opposite 8-oxo-guanine
+NGGACCC
+>pdb|3Q8P|P Chain P, Human DNA polymerase iota incorporating dCTP opposite 8-oxo-guanine
+NGGACCC
+>pdb|3NH1|H Chain H, Crystal structure of RNase T in complex with a preferred ssDNA (TAGG) with two Mg in the active site
+TTATAGG
+>pdb|3NH1|G Chain G, Crystal structure of RNase T in complex with a preferred ssDNA (TAGG) with two Mg in the active site
+TTATAGG
+>pdb|3NH1|F Chain F, Crystal structure of RNase T in complex with a preferred ssDNA (TAGG) with two Mg in the active site
+TTATAGG
+>pdb|3NH1|E Chain E, Crystal structure of RNase T in complex with a preferred ssDNA (TAGG) with two Mg in the active site
+TTATAGG
+>pdb|3NH0|D Chain D, Crystal structure of RNase T in complex with a non-preferred ssDNA (AAC)
+TTACAAC
+>pdb|3NH0|C Chain C, Crystal structure of RNase T in complex with a non-preferred ssDNA (AAC)
+TTACAAC
+>pdb|2X2Q|C Chain C, Crystal structure of an 'all locked' LNA duplex at 1.9 angstrom resolution
+NNNNNNN
+>pdb|2X2Q|A Chain A, Crystal structure of an 'all locked' LNA duplex at 1.9 angstrom resolution
+NNNNNNN
+>pdb|3LLN|B Chain B, Comparison between the orthorhombic an tetragonal form of the heptamer sequence d(GCG(xT)GCG)/d(CGCACGC).
+CGCACGC
+>pdb|3LLN|A Chain A, Comparison between the orthorhombic an tetragonal form of the heptamer sequence d(GCG(xT)GCG)/d(CGCACGC).
+GCGNGCG
+>pdb|3MDA|P Chain P, DNA polymerase lambda in complex with araC
+CAGTACN
+>pdb|3FL6|D Chain D, Influence of the incorporation of a cyclohexenyl nucleic acid (CeNA) residue onto the sequence d(GCGTGCG)/d(CGCACGC)
+CGCACGC
+>pdb|3FL6|C Chain C, Influence of the incorporation of a cyclohexenyl nucleic acid (CeNA) residue onto the sequence d(GCGTGCG)/d(CGCACGC)
+GCGNGCG
+>pdb|3FL6|B Chain B, Influence of the incorporation of a cyclohexenyl nucleic acid (CeNA) residue onto the sequence d(GCGTGCG)/d(CGCACGC)
+CGCACGC
+>pdb|3FL6|A Chain A, Influence of the incorporation of a cyclohexenyl nucleic acid (CeNA) residue onto the sequence d(GCGTGCG)/d(CGCACGC)
+GCGNGCG
+>pdb|2W89|D Chain D, Crystal structure of the E.coli tRNAArg aminoacyl stem issoacceptor RR-1660 at 2.0 Angstroem resolution
+CGGATGC
+>pdb|2W89|C Chain C, Crystal structure of the E.coli tRNAArg aminoacyl stem issoacceptor RR-1660 at 2.0 Angstroem resolution
+GCATCCG
+>pdb|2W89|B Chain B, Crystal structure of the E.coli tRNAArg aminoacyl stem issoacceptor RR-1660 at 2.0 Angstroem resolution
+CGGATGC
+>pdb|2W89|A Chain A, Crystal structure of the E.coli tRNAArg aminoacyl stem issoacceptor RR-1660 at 2.0 Angstroem resolution
+GCATCCG
